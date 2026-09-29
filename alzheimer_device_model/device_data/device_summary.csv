@@ -1,0 +1,4 @@
+case,zro2_um,mgo_um,SS_min_pointwise_mV_per_dec,min_dVg_for_10x_Id_mV,Vth_ELR_intercept_V_at_Vds1V,Ion_A_at_Vg5V_Vds1V,Ioff_min_A_Vds1V,on_off_ratio_Vds1V,Gmin_S_window_m1_to_3V,Gmax_S_window_m1_to_3V,n_sensitization_curves,SI_min,SI_max
+ZrO2_1_MgO_1,1,1,602,625,1.959,7.06814e-06,1.99968e-12,3.53463e+06,1.74451e-10,2.51933e-06,8,0.0683839,80.4857
+ZrO2_1point5_MgO_point5,1.5,0.5,501,525,1.73,9.28577e-06,4.84295e-13,1.91738e+07,1.06952e-10,3.66303e-06,8,0.0456693,73.9394
+ZrO2_point5_MgO_1point5,0.5,1.5,707.4,750,2.148,5.57593e-06,4.61656e-12,1.20781e+06,2.73065e-10,1.81345e-06,8,0.0582244,50.2364

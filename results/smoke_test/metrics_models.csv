@@ -1,0 +1,2 @@
+model,epochs,train_seconds,n,accuracy,balanced_accuracy,precision_macro,recall_macro,f1_macro,roc_auc_ovr,binary_accuracy_demented_vs_non,binary_sensitivity,binary_specificity,binary_auc
+"CNN (ConXNet, selected)",2,155.0000,1312,0.4870,0.2541,0.2002,0.2541,0.1894,0.6285,0.5114,0.0997,0.9437,0.7295

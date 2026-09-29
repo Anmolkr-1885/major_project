@@ -1,0 +1,1313 @@
+path,true,pred,patient_group,P(NonDemented),P(VeryMildDemented),P(MildDemented),P(ModerateDemented)
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\26 (22).jpg,MildDemented,NonDemented,3,0.6783,0.3065,0.0136,0.0016
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\26 (28).jpg,MildDemented,NonDemented,9,0.6565,0.3268,0.0148,0.0019
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\27 (18).jpg,MildDemented,NonDemented,19,0.7914,0.2011,0.0071,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\27 (2).jpg,MildDemented,VeryMildDemented,20,0.4334,0.5180,0.0370,0.0117
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\27 (22).jpg,MildDemented,NonDemented,3,0.6596,0.3236,0.0149,0.0019
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\27 (28).jpg,MildDemented,NonDemented,9,0.6957,0.2907,0.0123,0.0013
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\27 (3).jpg,MildDemented,NonDemented,21,0.6472,0.3347,0.0160,0.0021
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\27 (4).jpg,MildDemented,NonDemented,22,0.6575,0.3256,0.0150,0.0019
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\28 (18).jpg,MildDemented,NonDemented,19,0.8086,0.1849,0.0061,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\28 (2).jpg,MildDemented,VeryMildDemented,20,0.4683,0.4893,0.0332,0.0092
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\28 (22).jpg,MildDemented,NonDemented,3,0.6651,0.3184,0.0146,0.0018
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\28 (28).jpg,MildDemented,NonDemented,9,0.7311,0.2577,0.0103,0.0009
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\28 (3).jpg,MildDemented,NonDemented,21,0.6066,0.3715,0.0189,0.0030
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\28 (4).jpg,MildDemented,NonDemented,22,0.7019,0.2848,0.0121,0.0013
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\29 (18).jpg,MildDemented,NonDemented,19,0.7750,0.2169,0.0075,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\29 (2).jpg,MildDemented,VeryMildDemented,20,0.4306,0.5209,0.0368,0.0117
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\29 (22).jpg,MildDemented,NonDemented,3,0.6544,0.3281,0.0155,0.0020
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\29 (28).jpg,MildDemented,NonDemented,9,0.7214,0.2668,0.0108,0.0010
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\29 (3).jpg,MildDemented,NonDemented,21,0.5759,0.3990,0.0212,0.0038
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\29 (4).jpg,MildDemented,NonDemented,22,0.6752,0.3095,0.0137,0.0016
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\30 (18).jpg,MildDemented,NonDemented,19,0.8187,0.1757,0.0053,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\30 (2).jpg,MildDemented,VeryMildDemented,20,0.4653,0.4926,0.0328,0.0092
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\30 (22).jpg,MildDemented,NonDemented,3,0.6680,0.3156,0.0146,0.0018
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\30 (28).jpg,MildDemented,NonDemented,9,0.7583,0.2323,0.0087,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\30 (3).jpg,MildDemented,NonDemented,21,0.6361,0.3447,0.0168,0.0023
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\30 (4).jpg,MildDemented,NonDemented,22,0.6928,0.2933,0.0125,0.0014
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\31 (18).jpg,MildDemented,NonDemented,19,0.8196,0.1750,0.0051,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\31 (2).jpg,MildDemented,VeryMildDemented,20,0.4696,0.4893,0.0322,0.0089
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\31 (22).jpg,MildDemented,NonDemented,3,0.6713,0.3126,0.0143,0.0017
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\31 (28).jpg,MildDemented,NonDemented,9,0.7071,0.2802,0.0115,0.0012
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\31 (3).jpg,MildDemented,NonDemented,21,0.6214,0.3580,0.0179,0.0027
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\31 (4).jpg,MildDemented,NonDemented,22,0.7118,0.2756,0.0114,0.0012
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\32 (18).jpg,MildDemented,NonDemented,19,0.8145,0.1800,0.0053,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\32 (2).jpg,MildDemented,VeryMildDemented,20,0.4795,0.4810,0.0312,0.0083
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\32 (22).jpg,MildDemented,NonDemented,3,0.6745,0.3098,0.0140,0.0017
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\32 (28).jpg,MildDemented,NonDemented,9,0.7366,0.2526,0.0099,0.0009
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\32 (3).jpg,MildDemented,NonDemented,21,0.5881,0.3877,0.0206,0.0036
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\32 (4).jpg,MildDemented,NonDemented,22,0.7392,0.2500,0.0099,0.0009
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem10.jpg,MildDemented,VeryMildDemented,20,0.4562,0.4955,0.0373,0.0109
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem103.jpg,MildDemented,NonDemented,9,0.7112,0.2749,0.0126,0.0013
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem104.jpg,MildDemented,NonDemented,21,0.6087,0.3668,0.0211,0.0034
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem105.jpg,MildDemented,NonDemented,22,0.7537,0.2352,0.0102,0.0009
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem120.jpg,MildDemented,NonDemented,19,0.5787,0.3951,0.0221,0.0040
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem122.jpg,MildDemented,VeryMildDemented,20,0.3924,0.5454,0.0454,0.0168
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem125.jpg,MildDemented,NonDemented,3,0.7089,0.2768,0.0130,0.0014
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem13.jpg,MildDemented,NonDemented,3,0.7352,0.2527,0.0111,0.0010
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem131.jpg,MildDemented,NonDemented,9,0.6797,0.3041,0.0145,0.0017
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem132.jpg,MildDemented,NonDemented,21,0.6177,0.3587,0.0205,0.0032
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem133.jpg,MildDemented,NonDemented,22,0.7527,0.2361,0.0103,0.0009
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem148.jpg,MildDemented,NonDemented,19,0.5792,0.3944,0.0223,0.0040
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem150.jpg,MildDemented,VeryMildDemented,20,0.4161,0.5272,0.0423,0.0144
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem153.jpg,MildDemented,NonDemented,3,0.6944,0.2902,0.0139,0.0016
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem159.jpg,MildDemented,NonDemented,9,0.7220,0.2649,0.0119,0.0011
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem160.jpg,MildDemented,NonDemented,21,0.5562,0.4128,0.0258,0.0052
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem161.jpg,MildDemented,NonDemented,22,0.7468,0.2415,0.0108,0.0009
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem176.jpg,MildDemented,NonDemented,19,0.6551,0.3262,0.0165,0.0022
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem178.jpg,MildDemented,VeryMildDemented,20,0.4288,0.5174,0.0406,0.0132
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem181.jpg,MildDemented,NonDemented,3,0.6722,0.3105,0.0154,0.0019
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem187.jpg,MildDemented,NonDemented,9,0.6305,0.3488,0.0181,0.0026
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem188.jpg,MildDemented,NonDemented,21,0.5677,0.4025,0.0249,0.0049
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem189.jpg,MildDemented,NonDemented,22,0.7138,0.2718,0.0130,0.0013
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem19.jpg,MildDemented,NonDemented,9,0.7717,0.2188,0.0089,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem20.jpg,MildDemented,NonDemented,21,0.7093,0.2765,0.0129,0.0013
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem204.jpg,MildDemented,NonDemented,19,0.6663,0.3159,0.0158,0.0020
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem206.jpg,MildDemented,VeryMildDemented,20,0.4270,0.5190,0.0407,0.0133
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem209.jpg,MildDemented,NonDemented,3,0.6647,0.3173,0.0160,0.0020
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem21.jpg,MildDemented,NonDemented,22,0.6808,0.3027,0.0147,0.0018
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem215.jpg,MildDemented,VeryMildDemented,9,0.3036,0.6141,0.0538,0.0285
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem216.jpg,MildDemented,NonDemented,21,0.5772,0.3941,0.0241,0.0046
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem217.jpg,MildDemented,NonDemented,22,0.6407,0.3383,0.0184,0.0026
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem232.jpg,MildDemented,NonDemented,19,0.6209,0.3572,0.0191,0.0029
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem234.jpg,MildDemented,VeryMildDemented,20,0.4100,0.5326,0.0427,0.0148
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem237.jpg,MildDemented,NonDemented,3,0.6461,0.3341,0.0174,0.0024
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem243.jpg,MildDemented,VeryMildDemented,9,0.2885,0.6236,0.0562,0.0316
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem244.jpg,MildDemented,NonDemented,21,0.5908,0.3820,0.0230,0.0041
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem245.jpg,MildDemented,NonDemented,22,0.6618,0.3193,0.0168,0.0022
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem260.jpg,MildDemented,NonDemented,19,0.6891,0.2952,0.0141,0.0016
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem262.jpg,MildDemented,VeryMildDemented,20,0.4249,0.5208,0.0410,0.0133
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem265.jpg,MildDemented,NonDemented,3,0.6939,0.2904,0.0141,0.0016
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem271.jpg,MildDemented,VeryMildDemented,9,0.3819,0.5588,0.0428,0.0164
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem272.jpg,MildDemented,NonDemented,21,0.5822,0.3896,0.0238,0.0044
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem273.jpg,MildDemented,NonDemented,22,0.6864,0.2970,0.0149,0.0017
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem288.jpg,MildDemented,NonDemented,19,0.6742,0.3087,0.0152,0.0018
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem290.jpg,MildDemented,VeryMildDemented,20,0.4413,0.5076,0.0391,0.0120
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem293.jpg,MildDemented,NonDemented,3,0.6835,0.3000,0.0147,0.0018
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem299.jpg,MildDemented,NonDemented,9,0.5149,0.4504,0.0281,0.0066
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem300.jpg,MildDemented,NonDemented,21,0.5993,0.3747,0.0222,0.0038
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem301.jpg,MildDemented,NonDemented,22,0.6716,0.3106,0.0158,0.0020
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem316.jpg,MildDemented,NonDemented,19,0.6834,0.3002,0.0147,0.0017
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem318.jpg,MildDemented,VeryMildDemented,20,0.4210,0.5242,0.0412,0.0136
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem321.jpg,MildDemented,NonDemented,3,0.6756,0.3070,0.0154,0.0019
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem327.jpg,MildDemented,NonDemented,9,0.5575,0.4136,0.0241,0.0048
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem328.jpg,MildDemented,NonDemented,21,0.6096,0.3658,0.0211,0.0035
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem329.jpg,MildDemented,NonDemented,22,0.7105,0.2749,0.0132,0.0014
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem344.jpg,MildDemented,NonDemented,19,0.6889,0.2953,0.0143,0.0016
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem346.jpg,MildDemented,VeryMildDemented,20,0.4166,0.5275,0.0418,0.0141
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem349.jpg,MildDemented,NonDemented,3,0.6892,0.2946,0.0145,0.0017
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem355.jpg,MildDemented,NonDemented,9,0.5849,0.3896,0.0216,0.0039
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem356.jpg,MildDemented,NonDemented,21,0.6027,0.3720,0.0216,0.0036
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem357.jpg,MildDemented,NonDemented,22,0.6662,0.3156,0.0162,0.0021
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem36.jpg,MildDemented,NonDemented,19,0.7186,0.2686,0.0116,0.0011
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem372.jpg,MildDemented,NonDemented,19,0.6926,0.2919,0.0139,0.0015
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem374.jpg,MildDemented,VeryMildDemented,20,0.4020,0.5396,0.0430,0.0154
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem377.jpg,MildDemented,NonDemented,3,0.6632,0.3184,0.0163,0.0021
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem38.jpg,MildDemented,VeryMildDemented,20,0.4017,0.5386,0.0441,0.0157
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem383.jpg,MildDemented,NonDemented,9,0.6942,0.2906,0.0136,0.0015
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem384.jpg,MildDemented,NonDemented,21,0.6109,0.3649,0.0209,0.0034
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem385.jpg,MildDemented,NonDemented,22,0.6842,0.2991,0.0150,0.0018
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem400.jpg,MildDemented,NonDemented,19,0.7106,0.2754,0.0127,0.0013
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem402.jpg,MildDemented,VeryMildDemented,20,0.4081,0.5349,0.0421,0.0149
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem405.jpg,MildDemented,NonDemented,3,0.6869,0.2967,0.0146,0.0017
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem41.jpg,MildDemented,NonDemented,3,0.7510,0.2379,0.0103,0.0009
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem411.jpg,MildDemented,NonDemented,9,0.7267,0.2605,0.0117,0.0011
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem412.jpg,MildDemented,NonDemented,21,0.5889,0.3843,0.0227,0.0041
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem413.jpg,MildDemented,NonDemented,22,0.6863,0.2972,0.0148,0.0017
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem428.jpg,MildDemented,NonDemented,19,0.6940,0.2907,0.0138,0.0015
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem430.jpg,MildDemented,VeryMildDemented,20,0.4327,0.5154,0.0392,0.0126
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem433.jpg,MildDemented,NonDemented,3,0.6684,0.3135,0.0160,0.0021
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem439.jpg,MildDemented,NonDemented,9,0.7022,0.2832,0.0131,0.0014
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem440.jpg,MildDemented,NonDemented,21,0.6314,0.3466,0.0191,0.0029
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem441.jpg,MildDemented,NonDemented,22,0.6987,0.2857,0.0140,0.0016
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem456.jpg,MildDemented,NonDemented,19,0.7068,0.2789,0.0129,0.0014
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem458.jpg,MildDemented,VeryMildDemented,20,0.3902,0.5493,0.0441,0.0163
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem461.jpg,MildDemented,NonDemented,3,0.6844,0.2991,0.0147,0.0018
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem467.jpg,MildDemented,NonDemented,9,0.6981,0.2870,0.0134,0.0015
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem468.jpg,MildDemented,NonDemented,21,0.6310,0.3472,0.0189,0.0028
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem469.jpg,MildDemented,NonDemented,22,0.6770,0.3059,0.0152,0.0019
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem47.jpg,MildDemented,NonDemented,9,0.7158,0.2706,0.0124,0.0012
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem48.jpg,MildDemented,NonDemented,21,0.6521,0.3284,0.0172,0.0023
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem484.jpg,MildDemented,NonDemented,19,0.6629,0.3194,0.0157,0.0020
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem486.jpg,MildDemented,VeryMildDemented,20,0.3753,0.5608,0.0460,0.0179
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem489.jpg,MildDemented,NonDemented,3,0.6705,0.3121,0.0155,0.0020
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem49.jpg,MildDemented,NonDemented,22,0.7102,0.2757,0.0128,0.0013
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem495.jpg,MildDemented,NonDemented,9,0.6467,0.3344,0.0166,0.0023
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem496.jpg,MildDemented,NonDemented,21,0.6361,0.3428,0.0184,0.0027
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem497.jpg,MildDemented,NonDemented,22,0.6920,0.2922,0.0141,0.0016
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem512.jpg,MildDemented,NonDemented,19,0.7094,0.2767,0.0126,0.0013
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem514.jpg,MildDemented,VeryMildDemented,20,0.3509,0.5790,0.0491,0.0210
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem517.jpg,MildDemented,NonDemented,3,0.6837,0.3002,0.0143,0.0017
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem523.jpg,MildDemented,NonDemented,9,0.6699,0.3132,0.0150,0.0019
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem524.jpg,MildDemented,NonDemented,21,0.6499,0.3305,0.0173,0.0024
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem525.jpg,MildDemented,NonDemented,22,0.6655,0.3164,0.0160,0.0021
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem540.jpg,MildDemented,NonDemented,19,0.7114,0.2749,0.0124,0.0013
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem542.jpg,MildDemented,VeryMildDemented,20,0.3470,0.5813,0.0500,0.0217
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem545.jpg,MildDemented,NonDemented,3,0.6846,0.2996,0.0141,0.0017
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem551.jpg,MildDemented,NonDemented,9,0.6696,0.3135,0.0150,0.0019
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem552.jpg,MildDemented,NonDemented,21,0.5907,0.3841,0.0216,0.0037
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem553.jpg,MildDemented,NonDemented,22,0.6430,0.3369,0.0176,0.0025
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem568.jpg,MildDemented,NonDemented,19,0.6406,0.3402,0.0169,0.0023
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem570.jpg,MildDemented,VeryMildDemented,20,0.3537,0.5770,0.0486,0.0206
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem573.jpg,MildDemented,NonDemented,3,0.6662,0.3167,0.0152,0.0019
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem579.jpg,MildDemented,NonDemented,9,0.6894,0.2954,0.0137,0.0016
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem580.jpg,MildDemented,NonDemented,21,0.6055,0.3713,0.0200,0.0032
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem581.jpg,MildDemented,NonDemented,22,0.5904,0.3843,0.0215,0.0038
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem596.jpg,MildDemented,NonDemented,19,0.6739,0.3100,0.0144,0.0017
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem598.jpg,MildDemented,VeryMildDemented,20,0.3487,0.5809,0.0490,0.0213
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem601.jpg,MildDemented,NonDemented,3,0.6590,0.3233,0.0157,0.0020
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem607.jpg,MildDemented,NonDemented,9,0.7056,0.2806,0.0124,0.0013
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem608.jpg,MildDemented,NonDemented,21,0.6457,0.3351,0.0169,0.0023
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem609.jpg,MildDemented,NonDemented,22,0.5761,0.3973,0.0224,0.0041
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem624.jpg,MildDemented,NonDemented,19,0.7074,0.2792,0.0121,0.0012
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem626.jpg,MildDemented,VeryMildDemented,20,0.3964,0.5452,0.0428,0.0156
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem629.jpg,MildDemented,NonDemented,3,0.6667,0.3165,0.0149,0.0019
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem635.jpg,MildDemented,NonDemented,9,0.6356,0.3453,0.0167,0.0024
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem636.jpg,MildDemented,NonDemented,21,0.6482,0.3331,0.0166,0.0022
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem637.jpg,MildDemented,NonDemented,22,0.5772,0.3967,0.0220,0.0040
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem64.jpg,MildDemented,NonDemented,19,0.6988,0.2868,0.0130,0.0014
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem652.jpg,MildDemented,NonDemented,19,0.7219,0.2660,0.0110,0.0011
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem654.jpg,MildDemented,VeryMildDemented,20,0.4267,0.5218,0.0389,0.0127
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem657.jpg,MildDemented,NonDemented,3,0.6773,0.3070,0.0140,0.0017
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem66.jpg,MildDemented,VeryMildDemented,20,0.3900,0.5468,0.0461,0.0172
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem663.jpg,MildDemented,NonDemented,9,0.6953,0.2906,0.0127,0.0014
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem664.jpg,MildDemented,NonDemented,21,0.6605,0.3220,0.0156,0.0020
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem665.jpg,MildDemented,NonDemented,22,0.6179,0.3608,0.0185,0.0028
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem680.jpg,MildDemented,NonDemented,19,0.7401,0.2491,0.0099,0.0009
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem682.jpg,MildDemented,VeryMildDemented,20,0.4183,0.5292,0.0393,0.0132
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem685.jpg,MildDemented,NonDemented,3,0.6576,0.3253,0.0151,0.0020
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem69.jpg,MildDemented,NonDemented,3,0.7165,0.2700,0.0123,0.0013
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem691.jpg,MildDemented,NonDemented,9,0.7035,0.2832,0.0121,0.0013
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem692.jpg,MildDemented,NonDemented,21,0.6493,0.3324,0.0162,0.0021
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem693.jpg,MildDemented,NonDemented,22,0.6395,0.3415,0.0167,0.0023
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem708.jpg,MildDemented,NonDemented,19,0.7372,0.2518,0.0100,0.0009
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem709.jpg,MildDemented,VeryMildDemented,20,0.4413,0.5113,0.0363,0.0112
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem710.jpg,MildDemented,NonDemented,21,0.6470,0.3347,0.0161,0.0021
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem711.jpg,MildDemented,NonDemented,22,0.6455,0.3363,0.0160,0.0022
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem75.jpg,MildDemented,NonDemented,9,0.7059,0.2798,0.0130,0.0013
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem76.jpg,MildDemented,NonDemented,21,0.6308,0.3474,0.0190,0.0028
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem77.jpg,MildDemented,NonDemented,22,0.7186,0.2679,0.0123,0.0012
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem8.jpg,MildDemented,NonDemented,19,0.7031,0.2831,0.0125,0.0013
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem92.jpg,MildDemented,NonDemented,19,0.7086,0.2775,0.0125,0.0013
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem94.jpg,MildDemented,VeryMildDemented,20,0.4079,0.5328,0.0439,0.0154
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\MildDemented\mildDem97.jpg,MildDemented,NonDemented,3,0.7342,0.2534,0.0113,0.0011
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\ModerateDemented\27.jpg,ModerateDemented,NonDemented,29,0.7631,0.2276,0.0086,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\ModerateDemented\28.jpg,ModerateDemented,NonDemented,29,0.7644,0.2265,0.0085,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\ModerateDemented\29.jpg,ModerateDemented,NonDemented,29,0.7391,0.2502,0.0098,0.0009
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\ModerateDemented\30.jpg,ModerateDemented,NonDemented,29,0.7629,0.2279,0.0086,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\ModerateDemented\31.jpg,ModerateDemented,NonDemented,29,0.7479,0.2418,0.0095,0.0008
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\ModerateDemented\32.jpg,ModerateDemented,NonDemented,29,0.7322,0.2564,0.0104,0.0010
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\ModerateDemented\moderateDem1.jpg,ModerateDemented,NonDemented,29,0.7415,0.2466,0.0110,0.0010
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\ModerateDemented\moderateDem11.jpg,ModerateDemented,NonDemented,29,0.6077,0.3680,0.0209,0.0034
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\ModerateDemented\moderateDem13.jpg,ModerateDemented,NonDemented,29,0.6606,0.3204,0.0168,0.0022
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\ModerateDemented\moderateDem15.jpg,ModerateDemented,NonDemented,29,0.6263,0.3514,0.0194,0.0029
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\ModerateDemented\moderateDem17.jpg,ModerateDemented,NonDemented,29,0.6210,0.3562,0.0198,0.0031
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\ModerateDemented\moderateDem19.jpg,ModerateDemented,NonDemented,29,0.6490,0.3308,0.0177,0.0025
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\ModerateDemented\moderateDem21.jpg,ModerateDemented,NonDemented,29,0.6685,0.3132,0.0162,0.0021
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\ModerateDemented\moderateDem23.jpg,ModerateDemented,NonDemented,29,0.6903,0.2934,0.0146,0.0017
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\ModerateDemented\moderateDem25.jpg,ModerateDemented,NonDemented,29,0.7218,0.2645,0.0124,0.0012
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\ModerateDemented\moderateDem27.jpg,ModerateDemented,NonDemented,29,0.7412,0.2465,0.0113,0.0010
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\ModerateDemented\moderateDem29.jpg,ModerateDemented,NonDemented,29,0.7227,0.2637,0.0124,0.0012
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\ModerateDemented\moderateDem3.jpg,ModerateDemented,NonDemented,29,0.7261,0.2608,0.0120,0.0011
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\ModerateDemented\moderateDem31.jpg,ModerateDemented,NonDemented,29,0.7120,0.2736,0.0130,0.0014
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\ModerateDemented\moderateDem33.jpg,ModerateDemented,NonDemented,29,0.7142,0.2718,0.0127,0.0013
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\ModerateDemented\moderateDem35.jpg,ModerateDemented,NonDemented,29,0.7070,0.2786,0.0131,0.0014
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\ModerateDemented\moderateDem37.jpg,ModerateDemented,NonDemented,29,0.7441,0.2442,0.0108,0.0010
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\ModerateDemented\moderateDem39.jpg,ModerateDemented,NonDemented,29,0.7699,0.2202,0.0091,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\ModerateDemented\moderateDem41.jpg,ModerateDemented,NonDemented,29,0.7669,0.2233,0.0091,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\ModerateDemented\moderateDem43.jpg,ModerateDemented,NonDemented,29,0.7192,0.2680,0.0116,0.0011
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\ModerateDemented\moderateDem45.jpg,ModerateDemented,NonDemented,29,0.7789,0.2123,0.0082,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\ModerateDemented\moderateDem47.jpg,ModerateDemented,NonDemented,29,0.7608,0.2295,0.0090,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\ModerateDemented\moderateDem49.jpg,ModerateDemented,NonDemented,29,0.7696,0.2212,0.0085,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\ModerateDemented\moderateDem5.jpg,ModerateDemented,NonDemented,29,0.7216,0.2647,0.0125,0.0012
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\ModerateDemented\moderateDem51.jpg,ModerateDemented,NonDemented,29,0.7691,0.2219,0.0084,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\ModerateDemented\moderateDem7.jpg,ModerateDemented,NonDemented,29,0.6613,0.3198,0.0168,0.0021
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\ModerateDemented\moderateDem9.jpg,ModerateDemented,NonDemented,29,0.6604,0.3205,0.0170,0.0022
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\26 (63).jpg,NonDemented,NonDemented,32,0.7808,0.2108,0.0079,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\26 (65).jpg,NonDemented,NonDemented,34,0.5874,0.3894,0.0198,0.0034
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\26 (79).jpg,NonDemented,NonDemented,48,0.8547,0.1411,0.0040,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\26 (82).jpg,NonDemented,NonDemented,51,0.7031,0.2836,0.0120,0.0013
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\26 (85).jpg,NonDemented,NonDemented,54,0.7751,0.2163,0.0080,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\26 (86).jpg,NonDemented,NonDemented,55,0.8739,0.1227,0.0032,0.0001
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\26 (88).jpg,NonDemented,NonDemented,57,0.8057,0.1875,0.0064,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\26 (94).jpg,NonDemented,NonDemented,63,0.7318,0.2567,0.0105,0.0010
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\27 (12).jpg,NonDemented,NonDemented,72,0.8082,0.1853,0.0062,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\27 (2).jpg,NonDemented,NonDemented,80,0.8644,0.1318,0.0036,0.0001
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\27 (20).jpg,NonDemented,NonDemented,81,0.7439,0.2465,0.0089,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\27 (21).jpg,NonDemented,NonDemented,82,0.6952,0.2906,0.0127,0.0014
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\27 (25).jpg,NonDemented,NonDemented,86,0.7574,0.2330,0.0089,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\27 (28).jpg,NonDemented,NonDemented,89,0.8228,0.1715,0.0054,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\27 (3).jpg,NonDemented,NonDemented,91,0.6159,0.3627,0.0186,0.0028
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\27 (39).jpg,NonDemented,NonDemented,101,0.7697,0.2219,0.0078,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\27 (48).jpg,NonDemented,NonDemented,111,0.7394,0.2500,0.0097,0.0009
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\27 (58).jpg,NonDemented,NonDemented,122,0.7139,0.2736,0.0113,0.0011
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\27 (63).jpg,NonDemented,NonDemented,32,0.7754,0.2160,0.0080,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\27 (65).jpg,NonDemented,NonDemented,34,0.6643,0.3197,0.0142,0.0017
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\27 (7).jpg,NonDemented,NonDemented,127,0.5463,0.4241,0.0246,0.0051
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\27 (79).jpg,NonDemented,NonDemented,48,0.8537,0.1421,0.0040,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\27 (82).jpg,NonDemented,NonDemented,51,0.6746,0.3100,0.0137,0.0016
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\27 (85).jpg,NonDemented,NonDemented,54,0.7643,0.2266,0.0085,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\27 (86).jpg,NonDemented,NonDemented,55,0.8854,0.1117,0.0027,0.0001
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\27 (88).jpg,NonDemented,NonDemented,57,0.8085,0.1849,0.0062,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\27 (9).jpg,NonDemented,NonDemented,129,0.8383,0.1567,0.0048,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\27 (94).jpg,NonDemented,NonDemented,63,0.7366,0.2524,0.0101,0.0009
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\28 (12).jpg,NonDemented,NonDemented,72,0.8143,0.1796,0.0058,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\28 (2).jpg,NonDemented,NonDemented,80,0.8707,0.1258,0.0034,0.0001
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\28 (20).jpg,NonDemented,NonDemented,81,0.7489,0.2418,0.0086,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\28 (21).jpg,NonDemented,NonDemented,82,0.6932,0.2927,0.0127,0.0014
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\28 (25).jpg,NonDemented,NonDemented,86,0.7542,0.2361,0.0090,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\28 (28).jpg,NonDemented,NonDemented,89,0.8253,0.1692,0.0052,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\28 (3).jpg,NonDemented,NonDemented,91,0.6195,0.3594,0.0183,0.0027
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\28 (39).jpg,NonDemented,NonDemented,101,0.7601,0.2311,0.0082,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\28 (48).jpg,NonDemented,NonDemented,111,0.7424,0.2473,0.0095,0.0008
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\28 (58).jpg,NonDemented,NonDemented,122,0.6992,0.2874,0.0121,0.0013
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\28 (63).jpg,NonDemented,NonDemented,32,0.7896,0.2027,0.0072,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\28 (65).jpg,NonDemented,NonDemented,34,0.6950,0.2914,0.0123,0.0013
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\28 (7).jpg,NonDemented,NonDemented,127,0.5156,0.4510,0.0271,0.0062
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\28 (79).jpg,NonDemented,NonDemented,48,0.8501,0.1456,0.0041,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\28 (82).jpg,NonDemented,NonDemented,51,0.6960,0.2904,0.0123,0.0013
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\28 (85).jpg,NonDemented,NonDemented,54,0.6187,0.3613,0.0174,0.0027
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\28 (86).jpg,NonDemented,NonDemented,55,0.8775,0.1194,0.0030,0.0001
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\28 (88).jpg,NonDemented,NonDemented,57,0.8316,0.1631,0.0051,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\28 (9).jpg,NonDemented,NonDemented,129,0.8335,0.1613,0.0050,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\28 (94).jpg,NonDemented,NonDemented,63,0.7427,0.2467,0.0097,0.0008
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\29 (12).jpg,NonDemented,NonDemented,72,0.8264,0.1680,0.0052,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\29 (2).jpg,NonDemented,NonDemented,80,0.8697,0.1269,0.0033,0.0001
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\29 (20).jpg,NonDemented,NonDemented,81,0.7453,0.2453,0.0087,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\29 (21).jpg,NonDemented,NonDemented,82,0.7228,0.2655,0.0107,0.0010
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\29 (25).jpg,NonDemented,NonDemented,86,0.7362,0.2530,0.0099,0.0009
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\29 (28).jpg,NonDemented,NonDemented,89,0.8240,0.1705,0.0052,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\29 (3).jpg,NonDemented,NonDemented,91,0.6193,0.3598,0.0182,0.0027
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\29 (39).jpg,NonDemented,NonDemented,101,0.7827,0.2099,0.0070,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\29 (48).jpg,NonDemented,NonDemented,111,0.7444,0.2454,0.0094,0.0008
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\29 (58).jpg,NonDemented,NonDemented,122,0.7029,0.2841,0.0118,0.0012
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\29 (63).jpg,NonDemented,NonDemented,32,0.7676,0.2235,0.0083,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\29 (65).jpg,NonDemented,NonDemented,34,0.6793,0.3061,0.0131,0.0015
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\29 (7).jpg,NonDemented,NonDemented,127,0.5202,0.4471,0.0267,0.0061
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\29 (79).jpg,NonDemented,NonDemented,48,0.8411,0.1542,0.0044,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\29 (82).jpg,NonDemented,NonDemented,51,0.6891,0.2971,0.0125,0.0014
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\29 (85).jpg,NonDemented,NonDemented,54,0.7844,0.2078,0.0073,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\29 (86).jpg,NonDemented,NonDemented,55,0.8681,0.1285,0.0033,0.0001
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\29 (88).jpg,NonDemented,NonDemented,57,0.8151,0.1789,0.0057,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\29 (9).jpg,NonDemented,NonDemented,129,0.8448,0.1506,0.0044,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\29 (94).jpg,NonDemented,NonDemented,63,0.7305,0.2580,0.0105,0.0010
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\30 (12).jpg,NonDemented,NonDemented,72,0.8068,0.1868,0.0060,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\30 (2).jpg,NonDemented,NonDemented,80,0.8736,0.1231,0.0032,0.0001
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\30 (20).jpg,NonDemented,NonDemented,81,0.7546,0.2365,0.0082,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\30 (21).jpg,NonDemented,NonDemented,82,0.7316,0.2575,0.0101,0.0009
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\30 (25).jpg,NonDemented,NonDemented,86,0.7817,0.2104,0.0074,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\30 (28).jpg,NonDemented,NonDemented,89,0.8199,0.1744,0.0054,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\30 (3).jpg,NonDemented,NonDemented,91,0.6101,0.3684,0.0186,0.0029
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\30 (39).jpg,NonDemented,NonDemented,101,0.7859,0.2069,0.0068,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\30 (48).jpg,NonDemented,NonDemented,111,0.7429,0.2469,0.0094,0.0008
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\30 (58).jpg,NonDemented,NonDemented,122,0.6791,0.3062,0.0132,0.0015
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\30 (63).jpg,NonDemented,NonDemented,32,0.7695,0.2218,0.0081,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\30 (65).jpg,NonDemented,NonDemented,34,0.7066,0.2807,0.0115,0.0012
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\30 (7).jpg,NonDemented,NonDemented,127,0.5379,0.4316,0.0251,0.0054
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\30 (79).jpg,NonDemented,NonDemented,48,0.8540,0.1420,0.0038,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\30 (82).jpg,NonDemented,NonDemented,51,0.7218,0.2666,0.0106,0.0010
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\30 (85).jpg,NonDemented,NonDemented,54,0.7869,0.2055,0.0070,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\30 (86).jpg,NonDemented,NonDemented,55,0.8780,0.1190,0.0029,0.0001
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\30 (88).jpg,NonDemented,NonDemented,57,0.8245,0.1699,0.0052,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\30 (9).jpg,NonDemented,NonDemented,129,0.8433,0.1521,0.0044,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\30 (94).jpg,NonDemented,NonDemented,63,0.7169,0.2708,0.0112,0.0011
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\31 (12).jpg,NonDemented,NonDemented,72,0.8418,0.1535,0.0045,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\31 (2).jpg,NonDemented,NonDemented,80,0.8746,0.1222,0.0031,0.0001
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\31 (20).jpg,NonDemented,NonDemented,81,0.7650,0.2267,0.0077,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\31 (21).jpg,NonDemented,NonDemented,82,0.7312,0.2579,0.0100,0.0009
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\31 (25).jpg,NonDemented,NonDemented,86,0.7908,0.2018,0.0069,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\31 (28).jpg,NonDemented,NonDemented,89,0.8084,0.1854,0.0058,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\31 (3).jpg,NonDemented,NonDemented,91,0.6130,0.3657,0.0185,0.0028
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\31 (39).jpg,NonDemented,NonDemented,101,0.7631,0.2283,0.0079,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\31 (48).jpg,NonDemented,NonDemented,111,0.7538,0.2367,0.0088,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\31 (58).jpg,NonDemented,NonDemented,122,0.6821,0.3034,0.0130,0.0015
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\31 (63).jpg,NonDemented,NonDemented,32,0.7900,0.2025,0.0071,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\31 (65).jpg,NonDemented,NonDemented,34,0.6252,0.3558,0.0166,0.0024
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\31 (7).jpg,NonDemented,VeryMildDemented,127,0.4368,0.5185,0.0341,0.0106
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\31 (79).jpg,NonDemented,NonDemented,48,0.8551,0.1410,0.0038,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\31 (82).jpg,NonDemented,NonDemented,51,0.7288,0.2601,0.0101,0.0009
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\31 (85).jpg,NonDemented,NonDemented,54,0.7395,0.2501,0.0095,0.0008
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\31 (86).jpg,NonDemented,NonDemented,55,0.8427,0.1530,0.0041,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\31 (88).jpg,NonDemented,NonDemented,57,0.8441,0.1514,0.0043,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\31 (9).jpg,NonDemented,NonDemented,129,0.8492,0.1466,0.0041,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\31 (94).jpg,NonDemented,NonDemented,63,0.7155,0.2721,0.0113,0.0011
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\32 (12).jpg,NonDemented,NonDemented,72,0.8424,0.1530,0.0044,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\32 (2).jpg,NonDemented,NonDemented,80,0.8685,0.1281,0.0033,0.0001
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\32 (20).jpg,NonDemented,NonDemented,81,0.7438,0.2467,0.0088,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\32 (21).jpg,NonDemented,NonDemented,82,0.7416,0.2482,0.0094,0.0008
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\32 (25).jpg,NonDemented,NonDemented,86,0.7911,0.2016,0.0068,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\32 (28).jpg,NonDemented,NonDemented,89,0.8257,0.1690,0.0050,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\32 (3).jpg,NonDemented,NonDemented,91,0.6135,0.3652,0.0185,0.0028
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\32 (39).jpg,NonDemented,NonDemented,101,0.8107,0.1833,0.0057,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\32 (48).jpg,NonDemented,NonDemented,111,0.7564,0.2342,0.0086,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\32 (58).jpg,NonDemented,NonDemented,122,0.6742,0.3107,0.0135,0.0016
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\32 (63).jpg,NonDemented,NonDemented,32,0.7948,0.1980,0.0068,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\32 (65).jpg,NonDemented,NonDemented,34,0.6677,0.3169,0.0137,0.0017
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\32 (7).jpg,NonDemented,NonDemented,127,0.5842,0.3914,0.0208,0.0036
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\32 (79).jpg,NonDemented,NonDemented,48,0.8603,0.1360,0.0035,0.0001
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\32 (82).jpg,NonDemented,NonDemented,51,0.7238,0.2649,0.0104,0.0010
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\32 (85).jpg,NonDemented,NonDemented,54,0.7397,0.2500,0.0095,0.0008
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\32 (86).jpg,NonDemented,NonDemented,55,0.8660,0.1307,0.0032,0.0001
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\32 (88).jpg,NonDemented,NonDemented,57,0.8269,0.1679,0.0050,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\32 (9).jpg,NonDemented,NonDemented,129,0.8532,0.1428,0.0038,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\32 (94).jpg,NonDemented,NonDemented,63,0.7152,0.2725,0.0112,0.0011
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1003.jpg,NonDemented,NonDemented,72,0.8024,0.1900,0.0071,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1011.jpg,NonDemented,NonDemented,80,0.8530,0.1425,0.0043,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1012.jpg,NonDemented,NonDemented,81,0.7887,0.2032,0.0076,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1013.jpg,NonDemented,VeryMildDemented,82,0.4430,0.5099,0.0360,0.0111
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1017.jpg,NonDemented,NonDemented,86,0.7836,0.2075,0.0083,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1020.jpg,NonDemented,NonDemented,89,0.4915,0.4717,0.0292,0.0076
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1022.jpg,NonDemented,NonDemented,91,0.6207,0.3556,0.0205,0.0032
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem103.jpg,NonDemented,NonDemented,72,0.8618,0.1342,0.0039,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1032.jpg,NonDemented,NonDemented,101,0.7985,0.1940,0.0070,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1042.jpg,NonDemented,NonDemented,111,0.7137,0.2722,0.0128,0.0013
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1053.jpg,NonDemented,NonDemented,122,0.7428,0.2456,0.0107,0.0010
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1059.jpg,NonDemented,NonDemented,32,0.7979,0.1944,0.0073,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1061.jpg,NonDemented,NonDemented,34,0.7502,0.2384,0.0105,0.0009
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1066.jpg,NonDemented,NonDemented,127,0.4882,0.4707,0.0325,0.0086
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1076.jpg,NonDemented,NonDemented,48,0.8261,0.1679,0.0057,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1080.jpg,NonDemented,VeryMildDemented,51,0.1780,0.6807,0.0753,0.0660
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1083.jpg,NonDemented,NonDemented,54,0.7160,0.2705,0.0123,0.0012
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1084.jpg,NonDemented,NonDemented,55,0.8580,0.1377,0.0042,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1086.jpg,NonDemented,NonDemented,57,0.7975,0.1944,0.0075,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1088.jpg,NonDemented,NonDemented,129,0.8096,0.1833,0.0066,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1093.jpg,NonDemented,NonDemented,63,0.7158,0.2697,0.0131,0.0014
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem11.jpg,NonDemented,NonDemented,80,0.8340,0.1605,0.0052,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1103.jpg,NonDemented,NonDemented,72,0.8092,0.1836,0.0068,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem111.jpg,NonDemented,NonDemented,80,0.8125,0.1809,0.0063,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1111.jpg,NonDemented,NonDemented,80,0.8316,0.1630,0.0052,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1112.jpg,NonDemented,NonDemented,81,0.7847,0.2070,0.0078,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1113.jpg,NonDemented,VeryMildDemented,82,0.4689,0.4887,0.0330,0.0094
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1117.jpg,NonDemented,NonDemented,86,0.8056,0.1869,0.0071,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem112.jpg,NonDemented,VeryMildDemented,81,0.3118,0.6112,0.0508,0.0262
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1120.jpg,NonDemented,NonDemented,89,0.5883,0.3876,0.0205,0.0037
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1122.jpg,NonDemented,NonDemented,91,0.6008,0.3733,0.0222,0.0037
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem113.jpg,NonDemented,NonDemented,82,0.7516,0.2374,0.0102,0.0009
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1132.jpg,NonDemented,NonDemented,101,0.8273,0.1668,0.0056,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1142.jpg,NonDemented,NonDemented,111,0.6870,0.2969,0.0144,0.0017
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1153.jpg,NonDemented,NonDemented,122,0.6842,0.3002,0.0139,0.0016
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1159.jpg,NonDemented,NonDemented,32,0.8089,0.1840,0.0067,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1161.jpg,NonDemented,NonDemented,34,0.7332,0.2541,0.0116,0.0011
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1166.jpg,NonDemented,NonDemented,127,0.5554,0.4132,0.0260,0.0054
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem117.jpg,NonDemented,NonDemented,86,0.7690,0.2214,0.0089,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1176.jpg,NonDemented,NonDemented,48,0.8179,0.1757,0.0061,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1180.jpg,NonDemented,NonDemented,51,0.5705,0.4020,0.0230,0.0044
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1183.jpg,NonDemented,NonDemented,54,0.7378,0.2502,0.0110,0.0010
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1184.jpg,NonDemented,NonDemented,55,0.5762,0.3986,0.0212,0.0040
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1186.jpg,NonDemented,NonDemented,57,0.7656,0.2244,0.0093,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1188.jpg,NonDemented,NonDemented,129,0.8515,0.1437,0.0046,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1193.jpg,NonDemented,NonDemented,63,0.7092,0.2759,0.0135,0.0014
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem12.jpg,NonDemented,VeryMildDemented,81,0.2903,0.6251,0.0542,0.0305
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem120.jpg,NonDemented,NonDemented,89,0.7368,0.2521,0.0102,0.0009
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1203.jpg,NonDemented,NonDemented,72,0.7972,0.1949,0.0074,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1211.jpg,NonDemented,NonDemented,80,0.8584,0.1374,0.0040,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1212.jpg,NonDemented,NonDemented,81,0.7569,0.2331,0.0092,0.0008
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1213.jpg,NonDemented,VeryMildDemented,82,0.4714,0.4870,0.0324,0.0091
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1217.jpg,NonDemented,NonDemented,86,0.7913,0.2004,0.0078,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem122.jpg,NonDemented,NonDemented,91,0.6692,0.3136,0.0153,0.0019
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1220.jpg,NonDemented,NonDemented,89,0.7375,0.2512,0.0104,0.0009
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1222.jpg,NonDemented,NonDemented,91,0.5691,0.4015,0.0247,0.0047
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1232.jpg,NonDemented,NonDemented,101,0.8149,0.1785,0.0062,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1242.jpg,NonDemented,NonDemented,111,0.7136,0.2724,0.0127,0.0013
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1253.jpg,NonDemented,NonDemented,122,0.7235,0.2639,0.0115,0.0011
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1259.jpg,NonDemented,NonDemented,32,0.7800,0.2112,0.0082,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1261.jpg,NonDemented,NonDemented,34,0.7334,0.2539,0.0116,0.0011
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1266.jpg,NonDemented,VeryMildDemented,127,0.4787,0.4788,0.0335,0.0091
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1276.jpg,NonDemented,NonDemented,48,0.8085,0.1846,0.0064,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1280.jpg,NonDemented,NonDemented,51,0.6819,0.3018,0.0146,0.0017
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1283.jpg,NonDemented,NonDemented,54,0.7192,0.2675,0.0122,0.0012
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1284.jpg,NonDemented,NonDemented,55,0.8331,0.1613,0.0053,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1286.jpg,NonDemented,NonDemented,57,0.8049,0.1875,0.0071,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1288.jpg,NonDemented,NonDemented,129,0.8464,0.1485,0.0048,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1293.jpg,NonDemented,NonDemented,63,0.7132,0.2723,0.0131,0.0014
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem13.jpg,NonDemented,NonDemented,82,0.7672,0.2231,0.0090,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1303.jpg,NonDemented,NonDemented,72,0.8218,0.1717,0.0061,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1311.jpg,NonDemented,NonDemented,80,0.8524,0.1432,0.0043,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1312.jpg,NonDemented,NonDemented,81,0.7807,0.2108,0.0079,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1313.jpg,NonDemented,NonDemented,82,0.4811,0.4790,0.0314,0.0086
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1317.jpg,NonDemented,NonDemented,86,0.7786,0.2122,0.0086,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem132.jpg,NonDemented,NonDemented,101,0.8046,0.1884,0.0066,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1320.jpg,NonDemented,NonDemented,89,0.8225,0.1712,0.0060,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1322.jpg,NonDemented,NonDemented,91,0.5936,0.3800,0.0225,0.0039
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1332.jpg,NonDemented,NonDemented,101,0.8078,0.1852,0.0066,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1342.jpg,NonDemented,NonDemented,111,0.7154,0.2708,0.0125,0.0013
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1353.jpg,NonDemented,NonDemented,122,0.7333,0.2548,0.0109,0.0010
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1359.jpg,NonDemented,NonDemented,32,0.7799,0.2112,0.0083,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1361.jpg,NonDemented,NonDemented,34,0.7300,0.2571,0.0118,0.0011
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1366.jpg,NonDemented,NonDemented,127,0.5294,0.4358,0.0284,0.0064
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1376.jpg,NonDemented,NonDemented,48,0.8289,0.1654,0.0054,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1380.jpg,NonDemented,NonDemented,51,0.7345,0.2532,0.0113,0.0011
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1383.jpg,NonDemented,NonDemented,54,0.7437,0.2446,0.0108,0.0010
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1384.jpg,NonDemented,NonDemented,55,0.8521,0.1433,0.0044,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1386.jpg,NonDemented,NonDemented,57,0.7897,0.2018,0.0079,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1388.jpg,NonDemented,NonDemented,129,0.8408,0.1539,0.0051,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1393.jpg,NonDemented,NonDemented,63,0.7414,0.2462,0.0114,0.0010
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1403.jpg,NonDemented,NonDemented,72,0.8153,0.1779,0.0064,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1411.jpg,NonDemented,NonDemented,80,0.8550,0.1407,0.0042,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1412.jpg,NonDemented,NonDemented,81,0.7936,0.1987,0.0072,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1413.jpg,NonDemented,VeryMildDemented,82,0.4263,0.5238,0.0374,0.0125
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1417.jpg,NonDemented,NonDemented,86,0.7305,0.2570,0.0114,0.0011
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem142.jpg,NonDemented,NonDemented,111,0.7962,0.1961,0.0072,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1420.jpg,NonDemented,NonDemented,89,0.7999,0.1925,0.0071,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1422.jpg,NonDemented,NonDemented,91,0.5774,0.3941,0.0240,0.0045
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1432.jpg,NonDemented,NonDemented,101,0.8060,0.1869,0.0068,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1442.jpg,NonDemented,NonDemented,111,0.7251,0.2619,0.0118,0.0012
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1453.jpg,NonDemented,NonDemented,122,0.7223,0.2650,0.0116,0.0011
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1459.jpg,NonDemented,NonDemented,32,0.8066,0.1860,0.0069,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1461.jpg,NonDemented,NonDemented,34,0.7285,0.2586,0.0117,0.0011
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1466.jpg,NonDemented,NonDemented,127,0.5919,0.3814,0.0227,0.0040
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1476.jpg,NonDemented,NonDemented,48,0.8405,0.1543,0.0049,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1480.jpg,NonDemented,NonDemented,51,0.7214,0.2655,0.0119,0.0012
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1483.jpg,NonDemented,NonDemented,54,0.7390,0.2489,0.0111,0.0010
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1484.jpg,NonDemented,NonDemented,55,0.8513,0.1440,0.0045,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1486.jpg,NonDemented,NonDemented,57,0.8092,0.1834,0.0069,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1488.jpg,NonDemented,NonDemented,129,0.8214,0.1723,0.0060,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1493.jpg,NonDemented,NonDemented,63,0.7479,0.2404,0.0108,0.0010
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1503.jpg,NonDemented,NonDemented,72,0.8400,0.1545,0.0052,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1511.jpg,NonDemented,NonDemented,80,0.8488,0.1466,0.0045,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1512.jpg,NonDemented,NonDemented,81,0.7604,0.2299,0.0089,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1513.jpg,NonDemented,VeryMildDemented,82,0.3878,0.5544,0.0419,0.0159
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1517.jpg,NonDemented,NonDemented,86,0.7709,0.2192,0.0091,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1520.jpg,NonDemented,NonDemented,89,0.5301,0.4385,0.0256,0.0059
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1522.jpg,NonDemented,NonDemented,91,0.5357,0.4304,0.0278,0.0061
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem153.jpg,NonDemented,NonDemented,122,0.7301,0.2579,0.0109,0.0010
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1532.jpg,NonDemented,NonDemented,101,0.8194,0.1741,0.0061,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1542.jpg,NonDemented,NonDemented,111,0.7361,0.2517,0.0111,0.0010
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1553.jpg,NonDemented,NonDemented,122,0.7379,0.2504,0.0107,0.0010
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1559.jpg,NonDemented,NonDemented,32,0.7766,0.2141,0.0087,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1561.jpg,NonDemented,NonDemented,34,0.7431,0.2452,0.0107,0.0010
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1566.jpg,NonDemented,NonDemented,127,0.5858,0.3869,0.0231,0.0042
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1576.jpg,NonDemented,NonDemented,48,0.8616,0.1342,0.0040,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1580.jpg,NonDemented,NonDemented,51,0.7489,0.2399,0.0103,0.0009
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1583.jpg,NonDemented,NonDemented,54,0.7248,0.2621,0.0119,0.0012
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1584.jpg,NonDemented,NonDemented,55,0.8343,0.1601,0.0053,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1586.jpg,NonDemented,NonDemented,57,0.8007,0.1915,0.0074,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1588.jpg,NonDemented,NonDemented,129,0.8219,0.1718,0.0059,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem159.jpg,NonDemented,NonDemented,32,0.7927,0.1993,0.0075,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1593.jpg,NonDemented,NonDemented,63,0.7305,0.2568,0.0116,0.0011
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1603.jpg,NonDemented,NonDemented,72,0.8339,0.1604,0.0054,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem161.jpg,NonDemented,NonDemented,34,0.7213,0.2650,0.0125,0.0012
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1611.jpg,NonDemented,NonDemented,80,0.8433,0.1517,0.0047,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1612.jpg,NonDemented,NonDemented,81,0.7739,0.2173,0.0082,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1613.jpg,NonDemented,VeryMildDemented,82,0.4558,0.5005,0.0337,0.0099
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1617.jpg,NonDemented,NonDemented,86,0.7253,0.2617,0.0118,0.0012
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1620.jpg,NonDemented,NonDemented,89,0.7519,0.2376,0.0097,0.0008
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1622.jpg,NonDemented,NonDemented,91,0.5636,0.4061,0.0253,0.0050
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1632.jpg,NonDemented,NonDemented,101,0.7887,0.2031,0.0077,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1642.jpg,NonDemented,NonDemented,111,0.7207,0.2662,0.0119,0.0012
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1653.jpg,NonDemented,NonDemented,122,0.7198,0.2672,0.0118,0.0012
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1659.jpg,NonDemented,NonDemented,32,0.7504,0.2386,0.0102,0.0009
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem166.jpg,NonDemented,NonDemented,127,0.5302,0.4353,0.0282,0.0064
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1661.jpg,NonDemented,NonDemented,34,0.7275,0.2599,0.0115,0.0011
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1666.jpg,NonDemented,NonDemented,127,0.5669,0.4036,0.0246,0.0049
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1676.jpg,NonDemented,NonDemented,48,0.8466,0.1485,0.0046,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1680.jpg,NonDemented,NonDemented,51,0.7167,0.2701,0.0121,0.0012
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1683.jpg,NonDemented,NonDemented,54,0.7299,0.2573,0.0116,0.0011
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1684.jpg,NonDemented,NonDemented,55,0.8204,0.1733,0.0059,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1686.jpg,NonDemented,NonDemented,57,0.7884,0.2030,0.0080,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1688.jpg,NonDemented,NonDemented,129,0.8090,0.1840,0.0066,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1693.jpg,NonDemented,NonDemented,63,0.7322,0.2553,0.0114,0.0011
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem17.jpg,NonDemented,NonDemented,86,0.8052,0.1875,0.0068,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1703.jpg,NonDemented,NonDemented,72,0.8563,0.1392,0.0043,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1711.jpg,NonDemented,NonDemented,80,0.8412,0.1537,0.0048,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1712.jpg,NonDemented,NonDemented,81,0.7573,0.2330,0.0090,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1713.jpg,NonDemented,VeryMildDemented,82,0.4329,0.5193,0.0362,0.0116
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1717.jpg,NonDemented,NonDemented,86,0.7324,0.2553,0.0113,0.0011
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1720.jpg,NonDemented,NonDemented,89,0.6516,0.3305,0.0158,0.0021
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1722.jpg,NonDemented,NonDemented,91,0.5965,0.3770,0.0226,0.0039
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1732.jpg,NonDemented,NonDemented,101,0.7761,0.2150,0.0083,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1742.jpg,NonDemented,NonDemented,111,0.7240,0.2632,0.0117,0.0012
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1753.jpg,NonDemented,NonDemented,122,0.7183,0.2686,0.0119,0.0012
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1759.jpg,NonDemented,NonDemented,32,0.7626,0.2271,0.0095,0.0008
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem176.jpg,NonDemented,VeryMildDemented,48,0.2888,0.6259,0.0545,0.0308
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1761.jpg,NonDemented,NonDemented,34,0.7316,0.2560,0.0113,0.0011
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1766.jpg,NonDemented,NonDemented,127,0.5721,0.3989,0.0243,0.0047
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1776.jpg,NonDemented,NonDemented,48,0.8550,0.1406,0.0042,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1780.jpg,NonDemented,NonDemented,51,0.7313,0.2564,0.0112,0.0011
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1783.jpg,NonDemented,NonDemented,54,0.7233,0.2636,0.0119,0.0012
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1784.jpg,NonDemented,NonDemented,55,0.8086,0.1846,0.0065,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1786.jpg,NonDemented,NonDemented,57,0.7694,0.2209,0.0090,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1788.jpg,NonDemented,NonDemented,129,0.8377,0.1569,0.0052,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1793.jpg,NonDemented,NonDemented,63,0.7189,0.2676,0.0122,0.0012
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem180.jpg,NonDemented,NonDemented,51,0.7970,0.1949,0.0077,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1803.jpg,NonDemented,NonDemented,72,0.8513,0.1439,0.0046,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1811.jpg,NonDemented,NonDemented,80,0.8360,0.1587,0.0051,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1812.jpg,NonDemented,NonDemented,81,0.7877,0.2043,0.0075,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1813.jpg,NonDemented,NonDemented,82,0.6126,0.3643,0.0199,0.0032
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1817.jpg,NonDemented,NonDemented,86,0.7448,0.2438,0.0105,0.0009
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1820.jpg,NonDemented,NonDemented,89,0.6965,0.2892,0.0128,0.0014
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1822.jpg,NonDemented,NonDemented,91,0.6035,0.3710,0.0219,0.0036
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem183.jpg,NonDemented,NonDemented,54,0.7490,0.2404,0.0098,0.0008
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1832.jpg,NonDemented,NonDemented,101,0.7731,0.2178,0.0084,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem184.jpg,NonDemented,NonDemented,55,0.5945,0.3828,0.0194,0.0033
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1842.jpg,NonDemented,NonDemented,111,0.6864,0.2981,0.0139,0.0016
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1853.jpg,NonDemented,NonDemented,122,0.7021,0.2838,0.0128,0.0014
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1859.jpg,NonDemented,NonDemented,32,0.7513,0.2377,0.0101,0.0009
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem186.jpg,NonDemented,NonDemented,57,0.7986,0.1937,0.0072,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1861.jpg,NonDemented,NonDemented,34,0.6994,0.2861,0.0131,0.0014
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1866.jpg,NonDemented,NonDemented,127,0.5156,0.4479,0.0294,0.0071
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1876.jpg,NonDemented,NonDemented,48,0.8323,0.1623,0.0052,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem188.jpg,NonDemented,NonDemented,129,0.8403,0.1545,0.0049,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1880.jpg,NonDemented,NonDemented,51,0.7217,0.2656,0.0116,0.0011
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1883.jpg,NonDemented,NonDemented,54,0.7519,0.2371,0.0101,0.0009
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1884.jpg,NonDemented,NonDemented,55,0.8423,0.1526,0.0049,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1886.jpg,NonDemented,NonDemented,57,0.7741,0.2165,0.0087,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1888.jpg,NonDemented,NonDemented,129,0.8489,0.1463,0.0046,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1893.jpg,NonDemented,NonDemented,63,0.7114,0.2745,0.0128,0.0013
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1903.jpg,NonDemented,NonDemented,72,0.8360,0.1584,0.0053,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1911.jpg,NonDemented,NonDemented,80,0.8464,0.1487,0.0046,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1912.jpg,NonDemented,NonDemented,81,0.7840,0.2078,0.0076,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1913.jpg,NonDemented,NonDemented,82,0.6038,0.3717,0.0210,0.0035
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1917.jpg,NonDemented,NonDemented,86,0.7310,0.2568,0.0112,0.0011
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1920.jpg,NonDemented,NonDemented,89,0.8198,0.1739,0.0060,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1922.jpg,NonDemented,NonDemented,91,0.5955,0.3785,0.0223,0.0038
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem193.jpg,NonDemented,NonDemented,63,0.7395,0.2483,0.0112,0.0010
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1932.jpg,NonDemented,NonDemented,101,0.7744,0.2166,0.0083,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1942.jpg,NonDemented,NonDemented,111,0.6895,0.2952,0.0137,0.0016
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1953.jpg,NonDemented,NonDemented,122,0.7096,0.2767,0.0123,0.0013
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1959.jpg,NonDemented,NonDemented,32,0.7493,0.2396,0.0102,0.0009
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1961.jpg,NonDemented,NonDemented,34,0.7059,0.2801,0.0127,0.0014
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1966.jpg,NonDemented,NonDemented,127,0.5181,0.4461,0.0290,0.0069
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1976.jpg,NonDemented,NonDemented,48,0.8331,0.1614,0.0052,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1980.jpg,NonDemented,NonDemented,51,0.7345,0.2537,0.0108,0.0010
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1983.jpg,NonDemented,NonDemented,54,0.7714,0.2190,0.0089,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1984.jpg,NonDemented,NonDemented,55,0.8370,0.1578,0.0050,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1986.jpg,NonDemented,NonDemented,57,0.7671,0.2231,0.0091,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1988.jpg,NonDemented,NonDemented,129,0.8593,0.1364,0.0041,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem1993.jpg,NonDemented,NonDemented,63,0.6823,0.3011,0.0149,0.0017
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem20.jpg,NonDemented,NonDemented,89,0.8011,0.1918,0.0067,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2003.jpg,NonDemented,NonDemented,72,0.8305,0.1636,0.0056,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2011.jpg,NonDemented,NonDemented,80,0.8337,0.1608,0.0052,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2012.jpg,NonDemented,NonDemented,81,0.7690,0.2221,0.0083,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2013.jpg,NonDemented,NonDemented,82,0.5729,0.3993,0.0234,0.0045
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2017.jpg,NonDemented,NonDemented,86,0.7149,0.2719,0.0119,0.0012
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2020.jpg,NonDemented,NonDemented,89,0.8018,0.1910,0.0068,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2022.jpg,NonDemented,NonDemented,91,0.5838,0.3897,0.0226,0.0040
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem203.jpg,NonDemented,NonDemented,72,0.7145,0.2729,0.0114,0.0011
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2032.jpg,NonDemented,NonDemented,101,0.7545,0.2354,0.0094,0.0008
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2042.jpg,NonDemented,NonDemented,111,0.6885,0.2964,0.0136,0.0015
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2053.jpg,NonDemented,NonDemented,122,0.6934,0.2917,0.0134,0.0015
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2059.jpg,NonDemented,NonDemented,32,0.7652,0.2249,0.0092,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2061.jpg,NonDemented,NonDemented,34,0.6564,0.3256,0.0159,0.0021
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2066.jpg,NonDemented,NonDemented,127,0.5899,0.3836,0.0225,0.0040
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2076.jpg,NonDemented,NonDemented,48,0.8308,0.1637,0.0052,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2080.jpg,NonDemented,NonDemented,51,0.7414,0.2475,0.0102,0.0009
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2083.jpg,NonDemented,NonDemented,54,0.7557,0.2339,0.0095,0.0008
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2084.jpg,NonDemented,NonDemented,55,0.8507,0.1448,0.0044,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2086.jpg,NonDemented,NonDemented,57,0.7772,0.2138,0.0084,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2088.jpg,NonDemented,NonDemented,129,0.8599,0.1358,0.0041,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2093.jpg,NonDemented,NonDemented,63,0.7005,0.2845,0.0135,0.0015
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2103.jpg,NonDemented,NonDemented,72,0.7842,0.2074,0.0079,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem211.jpg,NonDemented,NonDemented,80,0.8384,0.1563,0.0051,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2111.jpg,NonDemented,NonDemented,80,0.8536,0.1420,0.0043,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2112.jpg,NonDemented,NonDemented,81,0.7644,0.2266,0.0084,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2113.jpg,NonDemented,NonDemented,82,0.6448,0.3354,0.0173,0.0024
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2117.jpg,NonDemented,NonDemented,86,0.7386,0.2500,0.0105,0.0009
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem212.jpg,NonDemented,NonDemented,81,0.6382,0.3433,0.0162,0.0023
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2120.jpg,NonDemented,NonDemented,89,0.8056,0.1874,0.0066,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2122.jpg,NonDemented,NonDemented,91,0.5884,0.3860,0.0218,0.0038
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem213.jpg,NonDemented,NonDemented,82,0.7102,0.2753,0.0131,0.0014
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2132.jpg,NonDemented,NonDemented,101,0.7316,0.2570,0.0105,0.0010
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2142.jpg,NonDemented,NonDemented,111,0.6824,0.3022,0.0138,0.0016
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2153.jpg,NonDemented,NonDemented,122,0.6799,0.3041,0.0144,0.0017
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2159.jpg,NonDemented,NonDemented,32,0.7488,0.2402,0.0101,0.0009
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2161.jpg,NonDemented,NonDemented,34,0.6490,0.3326,0.0163,0.0022
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2166.jpg,NonDemented,NonDemented,127,0.5024,0.4606,0.0297,0.0074
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem217.jpg,NonDemented,NonDemented,86,0.7762,0.2146,0.0086,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2176.jpg,NonDemented,NonDemented,48,0.8318,0.1628,0.0051,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2180.jpg,NonDemented,NonDemented,51,0.7367,0.2520,0.0104,0.0009
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2183.jpg,NonDemented,NonDemented,54,0.7893,0.2026,0.0076,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2184.jpg,NonDemented,NonDemented,55,0.8662,0.1300,0.0037,0.0001
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2186.jpg,NonDemented,NonDemented,57,0.7843,0.2072,0.0079,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2188.jpg,NonDemented,NonDemented,129,0.8606,0.1353,0.0040,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2193.jpg,NonDemented,NonDemented,63,0.6898,0.2948,0.0139,0.0016
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem22.jpg,NonDemented,NonDemented,91,0.6740,0.3092,0.0151,0.0018
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem220.jpg,NonDemented,NonDemented,89,0.4831,0.4799,0.0293,0.0078
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2203.jpg,NonDemented,NonDemented,72,0.7854,0.2064,0.0077,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2211.jpg,NonDemented,NonDemented,80,0.8510,0.1445,0.0043,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2212.jpg,NonDemented,NonDemented,81,0.7763,0.2155,0.0076,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2213.jpg,NonDemented,NonDemented,82,0.6981,0.2871,0.0133,0.0015
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2217.jpg,NonDemented,NonDemented,86,0.7298,0.2584,0.0108,0.0010
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem222.jpg,NonDemented,NonDemented,91,0.6233,0.3551,0.0189,0.0028
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2220.jpg,NonDemented,NonDemented,89,0.8101,0.1833,0.0063,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2222.jpg,NonDemented,NonDemented,91,0.5984,0.3775,0.0207,0.0034
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2232.jpg,NonDemented,NonDemented,101,0.7544,0.2359,0.0090,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2242.jpg,NonDemented,NonDemented,111,0.6836,0.3013,0.0136,0.0016
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2253.jpg,NonDemented,NonDemented,122,0.6679,0.3153,0.0150,0.0019
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2259.jpg,NonDemented,NonDemented,32,0.7564,0.2333,0.0095,0.0008
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2261.jpg,NonDemented,NonDemented,34,0.6583,0.3244,0.0154,0.0020
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2266.jpg,NonDemented,NonDemented,127,0.5604,0.4108,0.0240,0.0048
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2276.jpg,NonDemented,NonDemented,48,0.8558,0.1399,0.0041,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2280.jpg,NonDemented,NonDemented,51,0.7207,0.2671,0.0112,0.0011
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2283.jpg,NonDemented,NonDemented,54,0.7685,0.2223,0.0086,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2284.jpg,NonDemented,NonDemented,55,0.8657,0.1306,0.0036,0.0001
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2286.jpg,NonDemented,NonDemented,57,0.7800,0.2114,0.0080,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2288.jpg,NonDemented,NonDemented,129,0.8648,0.1312,0.0038,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2293.jpg,NonDemented,NonDemented,63,0.7153,0.2713,0.0122,0.0012
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2303.jpg,NonDemented,NonDemented,72,0.7948,0.1976,0.0071,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2311.jpg,NonDemented,NonDemented,80,0.8626,0.1334,0.0038,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2312.jpg,NonDemented,NonDemented,81,0.7849,0.2076,0.0071,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2313.jpg,NonDemented,NonDemented,82,0.6857,0.2990,0.0138,0.0016
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2317.jpg,NonDemented,NonDemented,86,0.7218,0.2661,0.0111,0.0011
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem232.jpg,NonDemented,NonDemented,101,0.8060,0.1870,0.0066,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2320.jpg,NonDemented,NonDemented,89,0.8174,0.1765,0.0058,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2322.jpg,NonDemented,NonDemented,91,0.6008,0.3758,0.0202,0.0033
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2332.jpg,NonDemented,NonDemented,101,0.7710,0.2205,0.0079,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2342.jpg,NonDemented,NonDemented,111,0.7096,0.2774,0.0117,0.0012
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2353.jpg,NonDemented,NonDemented,122,0.6821,0.3026,0.0137,0.0016
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2359.jpg,NonDemented,NonDemented,32,0.7656,0.2248,0.0089,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2361.jpg,NonDemented,NonDemented,34,0.6664,0.3172,0.0146,0.0018
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2366.jpg,NonDemented,NonDemented,127,0.5760,0.3976,0.0223,0.0041
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2376.jpg,NonDemented,NonDemented,48,0.8625,0.1335,0.0038,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2380.jpg,NonDemented,NonDemented,51,0.7175,0.2701,0.0113,0.0011
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2383.jpg,NonDemented,NonDemented,54,0.7780,0.2134,0.0080,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2384.jpg,NonDemented,NonDemented,55,0.8689,0.1275,0.0034,0.0001
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2386.jpg,NonDemented,NonDemented,57,0.7960,0.1965,0.0070,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2388.jpg,NonDemented,NonDemented,129,0.8555,0.1402,0.0041,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2393.jpg,NonDemented,NonDemented,63,0.7165,0.2705,0.0118,0.0012
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2403.jpg,NonDemented,NonDemented,72,0.8023,0.1907,0.0066,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2411.jpg,NonDemented,NonDemented,80,0.8523,0.1433,0.0042,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2412.jpg,NonDemented,NonDemented,81,0.7827,0.2098,0.0070,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2413.jpg,NonDemented,NonDemented,82,0.6868,0.2980,0.0136,0.0016
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2417.jpg,NonDemented,NonDemented,86,0.7317,0.2570,0.0104,0.0010
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem242.jpg,NonDemented,NonDemented,111,0.7902,0.2018,0.0075,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2420.jpg,NonDemented,NonDemented,89,0.7040,0.2832,0.0116,0.0012
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2422.jpg,NonDemented,NonDemented,91,0.5856,0.3895,0.0212,0.0036
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2432.jpg,NonDemented,NonDemented,101,0.7728,0.2190,0.0077,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2442.jpg,NonDemented,NonDemented,111,0.7100,0.2773,0.0115,0.0012
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2453.jpg,NonDemented,NonDemented,122,0.6668,0.3171,0.0144,0.0018
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2459.jpg,NonDemented,NonDemented,32,0.7722,0.2188,0.0084,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2461.jpg,NonDemented,NonDemented,34,0.5809,0.3950,0.0205,0.0036
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2466.jpg,NonDemented,NonDemented,127,0.5259,0.4420,0.0262,0.0059
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2476.jpg,NonDemented,NonDemented,48,0.8561,0.1397,0.0040,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2480.jpg,NonDemented,NonDemented,51,0.7105,0.2767,0.0116,0.0012
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2483.jpg,NonDemented,NonDemented,54,0.7999,0.1927,0.0069,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2484.jpg,NonDemented,NonDemented,55,0.8700,0.1265,0.0034,0.0001
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2486.jpg,NonDemented,NonDemented,57,0.7524,0.2376,0.0092,0.0008
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2488.jpg,NonDemented,NonDemented,129,0.8398,0.1552,0.0047,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2493.jpg,NonDemented,NonDemented,63,0.6890,0.2963,0.0132,0.0015
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2502.jpg,NonDemented,NonDemented,72,0.7932,0.1993,0.0070,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2510.jpg,NonDemented,NonDemented,80,0.8478,0.1476,0.0043,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2511.jpg,NonDemented,NonDemented,81,0.7812,0.2113,0.0070,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2512.jpg,NonDemented,NonDemented,82,0.6778,0.3065,0.0140,0.0017
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2516.jpg,NonDemented,NonDemented,86,0.7436,0.2459,0.0097,0.0008
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2519.jpg,NonDemented,NonDemented,89,0.7943,0.1985,0.0067,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2521.jpg,NonDemented,NonDemented,91,0.6027,0.3744,0.0198,0.0032
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem253.jpg,NonDemented,NonDemented,122,0.7446,0.2442,0.0103,0.0009
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2531.jpg,NonDemented,NonDemented,101,0.7988,0.1944,0.0064,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2541.jpg,NonDemented,NonDemented,111,0.7238,0.2646,0.0106,0.0010
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2552.jpg,NonDemented,NonDemented,122,0.7087,0.2784,0.0117,0.0012
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2557.jpg,NonDemented,NonDemented,127,0.5852,0.3897,0.0213,0.0038
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem2559.jpg,NonDemented,NonDemented,129,0.8438,0.1514,0.0046,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem259.jpg,NonDemented,NonDemented,32,0.7674,0.2229,0.0090,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem261.jpg,NonDemented,NonDemented,34,0.6820,0.3010,0.0152,0.0018
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem266.jpg,NonDemented,NonDemented,127,0.5719,0.3985,0.0249,0.0048
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem276.jpg,NonDemented,NonDemented,48,0.7265,0.2620,0.0106,0.0010
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem280.jpg,NonDemented,NonDemented,51,0.7056,0.2801,0.0130,0.0014
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem283.jpg,NonDemented,NonDemented,54,0.7983,0.1941,0.0071,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem284.jpg,NonDemented,NonDemented,55,0.7411,0.2481,0.0099,0.0009
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem286.jpg,NonDemented,NonDemented,57,0.7672,0.2230,0.0091,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem288.jpg,NonDemented,NonDemented,129,0.8476,0.1475,0.0047,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem293.jpg,NonDemented,NonDemented,63,0.7615,0.2276,0.0101,0.0008
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem3.jpg,NonDemented,NonDemented,72,0.8487,0.1466,0.0045,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem303.jpg,NonDemented,NonDemented,72,0.6535,0.3292,0.0152,0.0020
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem311.jpg,NonDemented,NonDemented,80,0.8246,0.1695,0.0056,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem312.jpg,NonDemented,NonDemented,81,0.4878,0.4754,0.0291,0.0077
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem313.jpg,NonDemented,NonDemented,82,0.6688,0.3130,0.0161,0.0021
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem317.jpg,NonDemented,NonDemented,86,0.7065,0.2796,0.0126,0.0013
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem32.jpg,NonDemented,NonDemented,101,0.8101,0.1833,0.0063,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem320.jpg,NonDemented,VeryMildDemented,89,0.4497,0.5077,0.0328,0.0098
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem322.jpg,NonDemented,NonDemented,91,0.5943,0.3805,0.0217,0.0036
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem332.jpg,NonDemented,NonDemented,101,0.7715,0.2194,0.0085,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem342.jpg,NonDemented,NonDemented,111,0.7910,0.2009,0.0076,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem353.jpg,NonDemented,NonDemented,122,0.7360,0.2520,0.0110,0.0010
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem359.jpg,NonDemented,NonDemented,32,0.6191,0.3592,0.0188,0.0029
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem361.jpg,NonDemented,NonDemented,34,0.6912,0.2926,0.0146,0.0017
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem366.jpg,NonDemented,NonDemented,127,0.4955,0.4645,0.0319,0.0081
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem376.jpg,NonDemented,NonDemented,48,0.8404,0.1546,0.0048,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem380.jpg,NonDemented,NonDemented,51,0.7144,0.2717,0.0126,0.0013
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem383.jpg,NonDemented,NonDemented,54,0.7535,0.2361,0.0096,0.0008
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem384.jpg,NonDemented,NonDemented,55,0.6085,0.3700,0.0186,0.0030
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem386.jpg,NonDemented,NonDemented,57,0.7723,0.2181,0.0089,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem388.jpg,NonDemented,NonDemented,129,0.8394,0.1553,0.0051,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem393.jpg,NonDemented,NonDemented,63,0.7592,0.2297,0.0103,0.0008
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem403.jpg,NonDemented,NonDemented,72,0.5026,0.4630,0.0275,0.0069
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem411.jpg,NonDemented,NonDemented,80,0.5864,0.3899,0.0201,0.0036
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem412.jpg,NonDemented,NonDemented,81,0.7783,0.2130,0.0081,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem413.jpg,NonDemented,NonDemented,82,0.6771,0.3052,0.0157,0.0019
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem417.jpg,NonDemented,NonDemented,86,0.7629,0.2270,0.0094,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem42.jpg,NonDemented,NonDemented,111,0.7693,0.2213,0.0087,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem420.jpg,NonDemented,NonDemented,89,0.8020,0.1908,0.0068,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem422.jpg,NonDemented,NonDemented,91,0.5852,0.3880,0.0228,0.0039
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem432.jpg,NonDemented,NonDemented,101,0.7841,0.2073,0.0080,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem442.jpg,NonDemented,NonDemented,111,0.7516,0.2375,0.0100,0.0008
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem453.jpg,NonDemented,NonDemented,122,0.6998,0.2856,0.0131,0.0014
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem459.jpg,NonDemented,NonDemented,32,0.6257,0.3534,0.0181,0.0027
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem461.jpg,NonDemented,NonDemented,34,0.7153,0.2704,0.0129,0.0013
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem466.jpg,NonDemented,NonDemented,127,0.5217,0.4423,0.0292,0.0068
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem476.jpg,NonDemented,NonDemented,48,0.8475,0.1478,0.0045,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem480.jpg,NonDemented,NonDemented,51,0.7171,0.2691,0.0126,0.0013
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem483.jpg,NonDemented,NonDemented,54,0.5974,0.3791,0.0201,0.0034
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem484.jpg,NonDemented,VeryMildDemented,55,0.3788,0.5632,0.0417,0.0163
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem486.jpg,NonDemented,NonDemented,57,0.7741,0.2164,0.0088,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem488.jpg,NonDemented,NonDemented,129,0.8456,0.1494,0.0049,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem493.jpg,NonDemented,NonDemented,63,0.6011,0.3746,0.0208,0.0035
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem503.jpg,NonDemented,VeryMildDemented,72,0.3992,0.5476,0.0390,0.0142
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem511.jpg,NonDemented,NonDemented,80,0.5646,0.4094,0.0217,0.0043
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem512.jpg,NonDemented,NonDemented,81,0.8113,0.1819,0.0064,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem513.jpg,NonDemented,NonDemented,82,0.6798,0.3029,0.0155,0.0019
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem517.jpg,NonDemented,NonDemented,86,0.7107,0.2756,0.0124,0.0013
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem520.jpg,NonDemented,NonDemented,89,0.7890,0.2030,0.0076,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem522.jpg,NonDemented,NonDemented,91,0.5686,0.4023,0.0246,0.0045
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem53.jpg,NonDemented,NonDemented,122,0.7428,0.2463,0.0100,0.0009
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem532.jpg,NonDemented,NonDemented,101,0.6853,0.2993,0.0139,0.0016
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem542.jpg,NonDemented,NonDemented,111,0.7544,0.2347,0.0101,0.0008
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem553.jpg,NonDemented,NonDemented,122,0.6858,0.2984,0.0141,0.0016
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem559.jpg,NonDemented,VeryMildDemented,32,0.2717,0.6334,0.0591,0.0358
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem561.jpg,NonDemented,NonDemented,34,0.7120,0.2736,0.0130,0.0013
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem566.jpg,NonDemented,VeryMildDemented,127,0.3873,0.5517,0.0442,0.0168
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem576.jpg,NonDemented,NonDemented,48,0.8453,0.1499,0.0046,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem580.jpg,NonDemented,NonDemented,51,0.7276,0.2592,0.0120,0.0012
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem583.jpg,NonDemented,NonDemented,54,0.6124,0.3656,0.0190,0.0030
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem584.jpg,NonDemented,NonDemented,55,0.6804,0.3045,0.0135,0.0016
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem586.jpg,NonDemented,NonDemented,57,0.7245,0.2628,0.0116,0.0011
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem588.jpg,NonDemented,NonDemented,129,0.8315,0.1626,0.0056,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem59.jpg,NonDemented,NonDemented,32,0.6304,0.3497,0.0174,0.0025
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem593.jpg,NonDemented,NonDemented,63,0.7137,0.2721,0.0129,0.0013
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem603.jpg,NonDemented,VeryMildDemented,72,0.4554,0.5025,0.0325,0.0097
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem61.jpg,NonDemented,NonDemented,34,0.7463,0.2421,0.0106,0.0009
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem611.jpg,NonDemented,NonDemented,80,0.7061,0.2810,0.0117,0.0012
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem612.jpg,NonDemented,NonDemented,81,0.7951,0.1971,0.0073,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem613.jpg,NonDemented,NonDemented,82,0.6407,0.3385,0.0182,0.0026
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem617.jpg,NonDemented,NonDemented,86,0.6776,0.3061,0.0146,0.0017
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem620.jpg,NonDemented,NonDemented,89,0.7750,0.2161,0.0083,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem622.jpg,NonDemented,NonDemented,91,0.5731,0.3980,0.0245,0.0044
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem632.jpg,NonDemented,NonDemented,101,0.7131,0.2735,0.0122,0.0012
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem642.jpg,NonDemented,NonDemented,111,0.7508,0.2378,0.0105,0.0009
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem653.jpg,NonDemented,NonDemented,122,0.7018,0.2835,0.0133,0.0014
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem659.jpg,NonDemented,VeryMildDemented,32,0.3570,0.5778,0.0458,0.0194
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem66.jpg,NonDemented,NonDemented,127,0.5303,0.4360,0.0275,0.0062
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem661.jpg,NonDemented,NonDemented,34,0.7082,0.2772,0.0132,0.0014
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem666.jpg,NonDemented,VeryMildDemented,127,0.4732,0.4829,0.0343,0.0095
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem676.jpg,NonDemented,NonDemented,48,0.8515,0.1439,0.0044,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem680.jpg,NonDemented,NonDemented,51,0.7522,0.2364,0.0105,0.0009
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem683.jpg,NonDemented,NonDemented,54,0.6865,0.2981,0.0139,0.0016
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem684.jpg,NonDemented,NonDemented,55,0.5827,0.3932,0.0204,0.0037
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem686.jpg,NonDemented,NonDemented,57,0.7315,0.2563,0.0111,0.0010
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem688.jpg,NonDemented,NonDemented,129,0.8385,0.1559,0.0053,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem693.jpg,NonDemented,NonDemented,63,0.7204,0.2658,0.0126,0.0013
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem703.jpg,NonDemented,NonDemented,72,0.6074,0.3705,0.0190,0.0031
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem711.jpg,NonDemented,NonDemented,80,0.6870,0.2986,0.0129,0.0014
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem712.jpg,NonDemented,NonDemented,81,0.8081,0.1848,0.0067,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem713.jpg,NonDemented,NonDemented,82,0.5956,0.3790,0.0217,0.0037
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem717.jpg,NonDemented,NonDemented,86,0.7784,0.2124,0.0086,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem720.jpg,NonDemented,VeryMildDemented,89,0.3772,0.5642,0.0421,0.0165
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem722.jpg,NonDemented,NonDemented,91,0.5760,0.3955,0.0242,0.0044
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem732.jpg,NonDemented,NonDemented,101,0.7616,0.2283,0.0093,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem742.jpg,NonDemented,NonDemented,111,0.7430,0.2451,0.0110,0.0010
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem753.jpg,NonDemented,NonDemented,122,0.7395,0.2484,0.0111,0.0010
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem759.jpg,NonDemented,NonDemented,32,0.7194,0.2677,0.0117,0.0011
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem76.jpg,NonDemented,VeryMildDemented,48,0.4793,0.4831,0.0296,0.0080
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem761.jpg,NonDemented,NonDemented,34,0.7102,0.2754,0.0131,0.0014
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem766.jpg,NonDemented,NonDemented,127,0.4876,0.4708,0.0329,0.0087
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem776.jpg,NonDemented,NonDemented,48,0.8474,0.1478,0.0046,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem780.jpg,NonDemented,NonDemented,51,0.7515,0.2371,0.0105,0.0009
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem783.jpg,NonDemented,NonDemented,54,0.6910,0.2938,0.0137,0.0015
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem784.jpg,NonDemented,NonDemented,55,0.5336,0.4363,0.0246,0.0055
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem786.jpg,NonDemented,NonDemented,57,0.7751,0.2156,0.0086,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem788.jpg,NonDemented,NonDemented,129,0.7936,0.1984,0.0075,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem793.jpg,NonDemented,NonDemented,63,0.7402,0.2472,0.0116,0.0011
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem80.jpg,NonDemented,NonDemented,51,0.7967,0.1952,0.0076,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem803.jpg,NonDemented,NonDemented,72,0.5830,0.3921,0.0211,0.0038
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem811.jpg,NonDemented,NonDemented,80,0.7662,0.2248,0.0084,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem812.jpg,NonDemented,NonDemented,81,0.7928,0.1992,0.0075,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem813.jpg,NonDemented,NonDemented,82,0.5853,0.3883,0.0224,0.0040
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem817.jpg,NonDemented,NonDemented,86,0.8098,0.1829,0.0069,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem820.jpg,NonDemented,VeryMildDemented,89,0.3877,0.5557,0.0410,0.0156
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem822.jpg,NonDemented,NonDemented,91,0.5912,0.3823,0.0226,0.0039
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem83.jpg,NonDemented,NonDemented,54,0.7774,0.2138,0.0082,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem832.jpg,NonDemented,NonDemented,101,0.7773,0.2138,0.0084,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem84.jpg,NonDemented,NonDemented,55,0.5338,0.4365,0.0243,0.0053
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem842.jpg,NonDemented,NonDemented,111,0.7022,0.2830,0.0133,0.0014
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem853.jpg,NonDemented,NonDemented,122,0.6841,0.2997,0.0145,0.0017
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem859.jpg,NonDemented,NonDemented,32,0.7707,0.2198,0.0088,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem86.jpg,NonDemented,NonDemented,57,0.8230,0.1708,0.0058,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem861.jpg,NonDemented,NonDemented,34,0.7290,0.2580,0.0119,0.0011
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem866.jpg,NonDemented,VeryMildDemented,127,0.4752,0.4810,0.0342,0.0095
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem876.jpg,NonDemented,NonDemented,48,0.8335,0.1610,0.0053,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem88.jpg,NonDemented,NonDemented,129,0.8523,0.1431,0.0044,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem880.jpg,NonDemented,NonDemented,51,0.7677,0.2221,0.0095,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem883.jpg,NonDemented,NonDemented,54,0.6701,0.3129,0.0152,0.0019
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem884.jpg,NonDemented,NonDemented,55,0.6099,0.3689,0.0183,0.0030
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem886.jpg,NonDemented,NonDemented,57,0.7970,0.1950,0.0075,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem888.jpg,NonDemented,NonDemented,129,0.8408,0.1537,0.0052,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem893.jpg,NonDemented,NonDemented,63,0.7191,0.2667,0.0130,0.0013
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem903.jpg,NonDemented,NonDemented,72,0.7554,0.2343,0.0095,0.0008
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem911.jpg,NonDemented,NonDemented,80,0.8460,0.1492,0.0046,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem912.jpg,NonDemented,NonDemented,81,0.7631,0.2272,0.0089,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem913.jpg,NonDemented,NonDemented,82,0.4890,0.4717,0.0312,0.0081
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem917.jpg,NonDemented,NonDemented,86,0.7915,0.2001,0.0079,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem920.jpg,NonDemented,VeryMildDemented,89,0.3899,0.5538,0.0409,0.0155
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem922.jpg,NonDemented,NonDemented,91,0.5908,0.3826,0.0227,0.0039
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem93.jpg,NonDemented,NonDemented,63,0.7572,0.2319,0.0100,0.0008
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem932.jpg,NonDemented,NonDemented,101,0.7827,0.2089,0.0079,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem942.jpg,NonDemented,NonDemented,111,0.7238,0.2629,0.0121,0.0012
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem953.jpg,NonDemented,NonDemented,122,0.6841,0.2998,0.0144,0.0017
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem959.jpg,NonDemented,NonDemented,32,0.7526,0.2367,0.0098,0.0008
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem961.jpg,NonDemented,NonDemented,34,0.7561,0.2328,0.0102,0.0009
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem966.jpg,NonDemented,VeryMildDemented,127,0.4211,0.5250,0.0403,0.0136
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem976.jpg,NonDemented,NonDemented,48,0.8187,0.1750,0.0060,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem980.jpg,NonDemented,VeryMildDemented,51,0.4382,0.5145,0.0358,0.0114
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem983.jpg,NonDemented,NonDemented,54,0.7468,0.2419,0.0104,0.0009
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem984.jpg,NonDemented,NonDemented,55,0.8325,0.1619,0.0052,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem986.jpg,NonDemented,NonDemented,57,0.7734,0.2171,0.0089,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem988.jpg,NonDemented,NonDemented,129,0.8271,0.1667,0.0059,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\NonDemented\nonDem993.jpg,NonDemented,NonDemented,63,0.7323,0.2544,0.0121,0.0012
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\26 (50).jpg,VeryMildDemented,NonDemented,136,0.8006,0.1923,0.0067,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\26 (51).jpg,VeryMildDemented,NonDemented,137,0.6960,0.2902,0.0125,0.0013
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\26 (53).jpg,VeryMildDemented,NonDemented,139,0.5227,0.4437,0.0273,0.0063
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\26 (59).jpg,VeryMildDemented,NonDemented,145,0.6583,0.3242,0.0156,0.0020
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\27 (13).jpg,VeryMildDemented,NonDemented,161,0.8045,0.1890,0.0061,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\27 (16).jpg,VeryMildDemented,NonDemented,164,0.6419,0.3383,0.0173,0.0025
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\27 (19).jpg,VeryMildDemented,NonDemented,167,0.7897,0.2028,0.0070,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\27 (21).jpg,VeryMildDemented,NonDemented,170,0.5673,0.4057,0.0227,0.0043
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\27 (24).jpg,VeryMildDemented,NonDemented,173,0.5734,0.4002,0.0223,0.0041
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\27 (26).jpg,VeryMildDemented,NonDemented,175,0.5781,0.3955,0.0224,0.0040
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\27 (30).jpg,VeryMildDemented,NonDemented,180,0.6881,0.2973,0.0131,0.0015
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\27 (33).jpg,VeryMildDemented,NonDemented,183,0.8159,0.1782,0.0055,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\27 (37).jpg,VeryMildDemented,NonDemented,187,0.6170,0.3619,0.0183,0.0027
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\27 (5).jpg,VeryMildDemented,NonDemented,195,0.7928,0.1999,0.0068,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\27 (50).jpg,VeryMildDemented,NonDemented,136,0.8087,0.1847,0.0062,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\27 (51).jpg,VeryMildDemented,NonDemented,137,0.6916,0.2944,0.0126,0.0014
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\27 (53).jpg,VeryMildDemented,NonDemented,139,0.5281,0.4391,0.0267,0.0060
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\27 (59).jpg,VeryMildDemented,NonDemented,145,0.6327,0.3476,0.0172,0.0025
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\28 (13).jpg,VeryMildDemented,NonDemented,161,0.7797,0.2126,0.0072,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\28 (16).jpg,VeryMildDemented,NonDemented,164,0.6371,0.3428,0.0175,0.0026
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\28 (19).jpg,VeryMildDemented,NonDemented,167,0.7770,0.2149,0.0076,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\28 (21).jpg,VeryMildDemented,NonDemented,170,0.5859,0.3892,0.0211,0.0037
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\28 (24).jpg,VeryMildDemented,NonDemented,173,0.6148,0.3635,0.0188,0.0029
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\28 (26).jpg,VeryMildDemented,NonDemented,175,0.6039,0.3726,0.0202,0.0033
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\28 (30).jpg,VeryMildDemented,NonDemented,180,0.6952,0.2906,0.0128,0.0014
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\28 (33).jpg,VeryMildDemented,NonDemented,183,0.8300,0.1648,0.0049,0.0002
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\28 (37).jpg,VeryMildDemented,NonDemented,187,0.6186,0.3605,0.0182,0.0027
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\28 (5).jpg,VeryMildDemented,NonDemented,195,0.7567,0.2341,0.0086,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\28 (50).jpg,VeryMildDemented,NonDemented,136,0.7957,0.1971,0.0068,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\28 (51).jpg,VeryMildDemented,NonDemented,137,0.7092,0.2782,0.0114,0.0012
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\28 (53).jpg,VeryMildDemented,NonDemented,139,0.5302,0.4373,0.0265,0.0059
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\28 (59).jpg,VeryMildDemented,NonDemented,145,0.6382,0.3426,0.0168,0.0024
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\29 (13).jpg,VeryMildDemented,NonDemented,161,0.7796,0.2127,0.0072,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\29 (16).jpg,VeryMildDemented,NonDemented,164,0.6128,0.3652,0.0190,0.0031
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\29 (19).jpg,VeryMildDemented,NonDemented,167,0.7947,0.1982,0.0067,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\29 (21).jpg,VeryMildDemented,NonDemented,170,0.5854,0.3898,0.0211,0.0037
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\29 (24).jpg,VeryMildDemented,NonDemented,173,0.6393,0.3414,0.0169,0.0024
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\29 (26).jpg,VeryMildDemented,NonDemented,175,0.6004,0.3762,0.0201,0.0033
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\29 (30).jpg,VeryMildDemented,NonDemented,180,0.6667,0.3168,0.0146,0.0018
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\29 (33).jpg,VeryMildDemented,NonDemented,183,0.8148,0.1794,0.0055,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\29 (37).jpg,VeryMildDemented,NonDemented,187,0.6376,0.3431,0.0170,0.0023
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\29 (5).jpg,VeryMildDemented,NonDemented,195,0.8124,0.1815,0.0058,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\29 (50).jpg,VeryMildDemented,NonDemented,136,0.7824,0.2097,0.0073,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\29 (51).jpg,VeryMildDemented,NonDemented,137,0.7214,0.2670,0.0106,0.0010
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\29 (53).jpg,VeryMildDemented,NonDemented,139,0.5267,0.4405,0.0267,0.0061
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\29 (59).jpg,VeryMildDemented,NonDemented,145,0.6369,0.3438,0.0169,0.0024
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\30 (13).jpg,VeryMildDemented,NonDemented,161,0.7921,0.2009,0.0066,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\30 (16).jpg,VeryMildDemented,NonDemented,164,0.6219,0.3573,0.0180,0.0028
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\30 (19).jpg,VeryMildDemented,NonDemented,167,0.8106,0.1831,0.0059,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\30 (21).jpg,VeryMildDemented,NonDemented,170,0.5861,0.3894,0.0208,0.0037
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\30 (24).jpg,VeryMildDemented,NonDemented,173,0.6636,0.3191,0.0153,0.0020
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\30 (26).jpg,VeryMildDemented,NonDemented,175,0.6275,0.3520,0.0179,0.0026
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\30 (30).jpg,VeryMildDemented,NonDemented,180,0.6502,0.3318,0.0159,0.0021
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\30 (33).jpg,VeryMildDemented,NonDemented,183,0.8012,0.1923,0.0061,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\30 (37).jpg,VeryMildDemented,NonDemented,187,0.6264,0.3532,0.0178,0.0026
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\30 (5).jpg,VeryMildDemented,NonDemented,195,0.8213,0.1730,0.0054,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\30 (50).jpg,VeryMildDemented,NonDemented,136,0.8055,0.1879,0.0062,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\30 (51).jpg,VeryMildDemented,NonDemented,137,0.7411,0.2486,0.0095,0.0008
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\30 (53).jpg,VeryMildDemented,NonDemented,139,0.5001,0.4636,0.0290,0.0073
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\30 (59).jpg,VeryMildDemented,NonDemented,145,0.6218,0.3573,0.0181,0.0027
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\31 (13).jpg,VeryMildDemented,NonDemented,161,0.7601,0.2311,0.0082,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\31 (16).jpg,VeryMildDemented,NonDemented,164,0.6337,0.3470,0.0169,0.0024
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\31 (19).jpg,VeryMildDemented,NonDemented,167,0.7845,0.2079,0.0071,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\31 (21).jpg,VeryMildDemented,NonDemented,170,0.6109,0.3673,0.0188,0.0030
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\31 (24).jpg,VeryMildDemented,NonDemented,173,0.6516,0.3301,0.0161,0.0022
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\31 (26).jpg,VeryMildDemented,NonDemented,175,0.6447,0.3365,0.0165,0.0023
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\31 (30).jpg,VeryMildDemented,NonDemented,180,0.6327,0.3477,0.0171,0.0025
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\31 (33).jpg,VeryMildDemented,NonDemented,183,0.7823,0.2103,0.0069,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\31 (37).jpg,VeryMildDemented,NonDemented,187,0.6318,0.3483,0.0174,0.0025
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\31 (5).jpg,VeryMildDemented,NonDemented,195,0.8294,0.1654,0.0050,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\31 (50).jpg,VeryMildDemented,NonDemented,136,0.8090,0.1847,0.0060,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\31 (51).jpg,VeryMildDemented,NonDemented,137,0.7324,0.2567,0.0099,0.0009
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\31 (53).jpg,VeryMildDemented,NonDemented,139,0.5458,0.4238,0.0251,0.0053
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\31 (59).jpg,VeryMildDemented,NonDemented,145,0.6079,0.3697,0.0193,0.0031
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\32 (13).jpg,VeryMildDemented,NonDemented,161,0.7705,0.2212,0.0077,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\32 (16).jpg,VeryMildDemented,NonDemented,164,0.6532,0.3291,0.0157,0.0021
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\32 (19).jpg,VeryMildDemented,NonDemented,167,0.8197,0.1746,0.0054,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\32 (21).jpg,VeryMildDemented,NonDemented,170,0.5693,0.4046,0.0220,0.0042
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\32 (24).jpg,VeryMildDemented,NonDemented,173,0.6517,0.3301,0.0161,0.0022
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\32 (26).jpg,VeryMildDemented,NonDemented,175,0.6831,0.3014,0.0139,0.0016
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\32 (30).jpg,VeryMildDemented,NonDemented,180,0.6368,0.3437,0.0170,0.0024
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\32 (33).jpg,VeryMildDemented,NonDemented,183,0.8257,0.1690,0.0050,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\32 (37).jpg,VeryMildDemented,NonDemented,187,0.6386,0.3421,0.0169,0.0024
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\32 (5).jpg,VeryMildDemented,NonDemented,195,0.8281,0.1667,0.0049,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\32 (50).jpg,VeryMildDemented,NonDemented,136,0.8159,0.1782,0.0056,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\32 (51).jpg,VeryMildDemented,NonDemented,137,0.7279,0.2611,0.0100,0.0010
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\32 (53).jpg,VeryMildDemented,NonDemented,139,0.5446,0.4248,0.0252,0.0054
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\32 (59).jpg,VeryMildDemented,NonDemented,145,0.6432,0.3378,0.0167,0.0023
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1002.jpg,VeryMildDemented,NonDemented,180,0.6145,0.3612,0.0208,0.0034
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1005.jpg,VeryMildDemented,NonDemented,183,0.8003,0.1921,0.0071,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1009.jpg,VeryMildDemented,VeryMildDemented,187,0.4554,0.4989,0.0351,0.0106
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1023.jpg,VeryMildDemented,NonDemented,195,0.7685,0.2219,0.0089,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1024.jpg,VeryMildDemented,NonDemented,136,0.7454,0.2425,0.0111,0.0010
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1025.jpg,VeryMildDemented,NonDemented,137,0.6975,0.2875,0.0135,0.0015
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1027.jpg,VeryMildDemented,NonDemented,139,0.4843,0.4738,0.0331,0.0088
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1033.jpg,VeryMildDemented,NonDemented,145,0.5560,0.4127,0.0259,0.0054
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1053.jpg,VeryMildDemented,NonDemented,161,0.7749,0.2161,0.0083,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1056.jpg,VeryMildDemented,NonDemented,164,0.5854,0.3870,0.0233,0.0043
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1059.jpg,VeryMildDemented,NonDemented,167,0.7232,0.2639,0.0117,0.0012
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1062.jpg,VeryMildDemented,NonDemented,170,0.5366,0.4297,0.0276,0.0062
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1065.jpg,VeryMildDemented,NonDemented,173,0.5877,0.3856,0.0227,0.0040
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1067.jpg,VeryMildDemented,NonDemented,175,0.5698,0.4011,0.0243,0.0048
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1072.jpg,VeryMildDemented,NonDemented,180,0.5761,0.3955,0.0239,0.0045
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1075.jpg,VeryMildDemented,NonDemented,183,0.7934,0.1987,0.0074,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1079.jpg,VeryMildDemented,VeryMildDemented,187,0.3637,0.5706,0.0462,0.0194
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1093.jpg,VeryMildDemented,NonDemented,195,0.7688,0.2217,0.0088,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1094.jpg,VeryMildDemented,NonDemented,136,0.7178,0.2681,0.0128,0.0013
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1095.jpg,VeryMildDemented,NonDemented,137,0.5391,0.4294,0.0258,0.0057
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1097.jpg,VeryMildDemented,NonDemented,139,0.5112,0.4509,0.0305,0.0073
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1103.jpg,VeryMildDemented,NonDemented,145,0.5847,0.3875,0.0234,0.0044
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1123.jpg,VeryMildDemented,NonDemented,161,0.7745,0.2165,0.0084,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1126.jpg,VeryMildDemented,NonDemented,164,0.5860,0.3860,0.0236,0.0044
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1129.jpg,VeryMildDemented,NonDemented,167,0.7218,0.2652,0.0118,0.0012
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem113.jpg,VeryMildDemented,NonDemented,195,0.7873,0.2045,0.0077,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1132.jpg,VeryMildDemented,NonDemented,170,0.4811,0.4771,0.0328,0.0090
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1135.jpg,VeryMildDemented,NonDemented,173,0.6190,0.3576,0.0203,0.0032
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1137.jpg,VeryMildDemented,NonDemented,175,0.5745,0.3968,0.0241,0.0046
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem114.jpg,VeryMildDemented,NonDemented,136,0.7804,0.2105,0.0084,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1142.jpg,VeryMildDemented,NonDemented,180,0.5753,0.3965,0.0237,0.0045
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1145.jpg,VeryMildDemented,NonDemented,183,0.7974,0.1949,0.0072,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1149.jpg,VeryMildDemented,NonDemented,187,0.6173,0.3595,0.0200,0.0032
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem115.jpg,VeryMildDemented,NonDemented,137,0.6855,0.2987,0.0142,0.0017
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1163.jpg,VeryMildDemented,NonDemented,195,0.7914,0.2005,0.0076,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1164.jpg,VeryMildDemented,NonDemented,136,0.7329,0.2542,0.0118,0.0011
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1165.jpg,VeryMildDemented,NonDemented,137,0.6067,0.3700,0.0200,0.0033
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1167.jpg,VeryMildDemented,NonDemented,139,0.5492,0.4183,0.0269,0.0056
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem117.jpg,VeryMildDemented,VeryMildDemented,139,0.3573,0.5750,0.0476,0.0200
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1173.jpg,VeryMildDemented,NonDemented,145,0.5266,0.4380,0.0287,0.0067
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1193.jpg,VeryMildDemented,NonDemented,161,0.7478,0.2416,0.0098,0.0009
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1196.jpg,VeryMildDemented,NonDemented,164,0.5907,0.3818,0.0233,0.0042
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1199.jpg,VeryMildDemented,NonDemented,167,0.7270,0.2605,0.0114,0.0011
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem12.jpg,VeryMildDemented,NonDemented,170,0.7015,0.2842,0.0129,0.0014
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1202.jpg,VeryMildDemented,VeryMildDemented,170,0.3497,0.5806,0.0485,0.0212
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1205.jpg,VeryMildDemented,NonDemented,173,0.5892,0.3841,0.0227,0.0040
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1207.jpg,VeryMildDemented,NonDemented,175,0.5572,0.4118,0.0257,0.0053
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1212.jpg,VeryMildDemented,NonDemented,180,0.5508,0.4184,0.0254,0.0054
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1215.jpg,VeryMildDemented,NonDemented,183,0.7818,0.2098,0.0079,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1219.jpg,VeryMildDemented,NonDemented,187,0.6114,0.3651,0.0202,0.0033
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem123.jpg,VeryMildDemented,NonDemented,145,0.5580,0.4116,0.0252,0.0051
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1233.jpg,VeryMildDemented,NonDemented,195,0.7741,0.2169,0.0084,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1234.jpg,VeryMildDemented,NonDemented,136,0.7299,0.2571,0.0118,0.0011
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1235.jpg,VeryMildDemented,NonDemented,137,0.6433,0.3369,0.0173,0.0025
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1237.jpg,VeryMildDemented,NonDemented,139,0.5622,0.4076,0.0252,0.0050
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1243.jpg,VeryMildDemented,NonDemented,145,0.5450,0.4222,0.0269,0.0059
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1263.jpg,VeryMildDemented,NonDemented,161,0.7184,0.2689,0.0115,0.0011
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1266.jpg,VeryMildDemented,NonDemented,164,0.6041,0.3700,0.0221,0.0038
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1269.jpg,VeryMildDemented,NonDemented,167,0.7517,0.2376,0.0099,0.0008
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1272.jpg,VeryMildDemented,NonDemented,170,0.5305,0.4356,0.0277,0.0063
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1275.jpg,VeryMildDemented,NonDemented,173,0.5914,0.3822,0.0224,0.0039
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1277.jpg,VeryMildDemented,NonDemented,175,0.5550,0.4136,0.0260,0.0055
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1282.jpg,VeryMildDemented,NonDemented,180,0.5747,0.3978,0.0231,0.0044
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1285.jpg,VeryMildDemented,NonDemented,183,0.8034,0.1895,0.0067,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1289.jpg,VeryMildDemented,NonDemented,187,0.5868,0.3874,0.0218,0.0039
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1303.jpg,VeryMildDemented,NonDemented,195,0.7698,0.2209,0.0086,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1304.jpg,VeryMildDemented,NonDemented,136,0.7256,0.2612,0.0120,0.0012
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1305.jpg,VeryMildDemented,NonDemented,137,0.6432,0.3369,0.0174,0.0025
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1307.jpg,VeryMildDemented,NonDemented,139,0.5818,0.3909,0.0231,0.0042
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1313.jpg,VeryMildDemented,NonDemented,145,0.5680,0.4025,0.0247,0.0049
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1333.jpg,VeryMildDemented,NonDemented,161,0.7253,0.2624,0.0112,0.0011
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1336.jpg,VeryMildDemented,NonDemented,164,0.5937,0.3799,0.0224,0.0039
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1339.jpg,VeryMildDemented,NonDemented,167,0.7606,0.2293,0.0093,0.0008
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1342.jpg,VeryMildDemented,NonDemented,170,0.5349,0.4322,0.0270,0.0060
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1345.jpg,VeryMildDemented,NonDemented,173,0.6263,0.3511,0.0196,0.0030
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1347.jpg,VeryMildDemented,NonDemented,175,0.5499,0.4178,0.0267,0.0057
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1352.jpg,VeryMildDemented,NonDemented,180,0.5790,0.3941,0.0227,0.0042
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1355.jpg,VeryMildDemented,NonDemented,183,0.8097,0.1837,0.0063,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1359.jpg,VeryMildDemented,NonDemented,187,0.6202,0.3580,0.0189,0.0029
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1373.jpg,VeryMildDemented,NonDemented,195,0.7820,0.2095,0.0079,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1374.jpg,VeryMildDemented,NonDemented,136,0.7595,0.2299,0.0098,0.0008
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1375.jpg,VeryMildDemented,NonDemented,137,0.6034,0.3726,0.0205,0.0035
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1377.jpg,VeryMildDemented,NonDemented,139,0.5531,0.4165,0.0252,0.0052
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1383.jpg,VeryMildDemented,NonDemented,145,0.5836,0.3892,0.0230,0.0042
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1403.jpg,VeryMildDemented,NonDemented,161,0.7428,0.2462,0.0101,0.0009
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1406.jpg,VeryMildDemented,NonDemented,164,0.5923,0.3815,0.0222,0.0039
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1409.jpg,VeryMildDemented,NonDemented,167,0.7668,0.2237,0.0089,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1412.jpg,VeryMildDemented,NonDemented,170,0.5319,0.4354,0.0267,0.0060
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1415.jpg,VeryMildDemented,NonDemented,173,0.5877,0.3856,0.0226,0.0040
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1417.jpg,VeryMildDemented,NonDemented,175,0.5593,0.4094,0.0260,0.0053
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1422.jpg,VeryMildDemented,NonDemented,180,0.5772,0.3962,0.0225,0.0041
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1425.jpg,VeryMildDemented,NonDemented,183,0.8168,0.1770,0.0059,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1429.jpg,VeryMildDemented,NonDemented,187,0.6196,0.3589,0.0186,0.0028
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem143.jpg,VeryMildDemented,NonDemented,161,0.7310,0.2572,0.0108,0.0010
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1443.jpg,VeryMildDemented,NonDemented,195,0.7992,0.1934,0.0069,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1444.jpg,VeryMildDemented,NonDemented,136,0.7616,0.2281,0.0095,0.0008
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1445.jpg,VeryMildDemented,NonDemented,137,0.6273,0.3515,0.0184,0.0028
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1447.jpg,VeryMildDemented,NonDemented,139,0.5591,0.4115,0.0245,0.0049
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1453.jpg,VeryMildDemented,NonDemented,145,0.5768,0.3961,0.0229,0.0042
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem146.jpg,VeryMildDemented,NonDemented,164,0.6096,0.3654,0.0215,0.0035
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1473.jpg,VeryMildDemented,NonDemented,161,0.7313,0.2572,0.0105,0.0010
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1476.jpg,VeryMildDemented,NonDemented,164,0.6031,0.3719,0.0214,0.0036
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1479.jpg,VeryMildDemented,NonDemented,167,0.7688,0.2219,0.0087,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1482.jpg,VeryMildDemented,NonDemented,170,0.4910,0.4714,0.0300,0.0077
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1485.jpg,VeryMildDemented,NonDemented,173,0.6079,0.3680,0.0207,0.0034
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1487.jpg,VeryMildDemented,NonDemented,175,0.5319,0.4336,0.0283,0.0063
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem149.jpg,VeryMildDemented,NonDemented,167,0.7486,0.2400,0.0105,0.0009
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1492.jpg,VeryMildDemented,NonDemented,180,0.6041,0.3728,0.0199,0.0032
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1495.jpg,VeryMildDemented,NonDemented,183,0.8239,0.1704,0.0055,0.0003
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1499.jpg,VeryMildDemented,NonDemented,187,0.6046,0.3722,0.0199,0.0032
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem15.jpg,VeryMildDemented,NonDemented,173,0.6354,0.3435,0.0185,0.0027
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1513.jpg,VeryMildDemented,NonDemented,195,0.7850,0.2068,0.0076,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1514.jpg,VeryMildDemented,NonDemented,136,0.7682,0.2221,0.0089,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1515.jpg,VeryMildDemented,NonDemented,137,0.6703,0.3128,0.0150,0.0019
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1517.jpg,VeryMildDemented,NonDemented,139,0.5440,0.4248,0.0258,0.0055
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem152.jpg,VeryMildDemented,NonDemented,170,0.5451,0.4241,0.0254,0.0054
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1523.jpg,VeryMildDemented,NonDemented,145,0.6218,0.3565,0.0188,0.0029
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1543.jpg,VeryMildDemented,NonDemented,161,0.6011,0.3770,0.0187,0.0031
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1546.jpg,VeryMildDemented,NonDemented,164,0.5452,0.4235,0.0258,0.0055
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1549.jpg,VeryMildDemented,NonDemented,167,0.7541,0.2357,0.0094,0.0008
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem155.jpg,VeryMildDemented,NonDemented,173,0.6607,0.3203,0.0169,0.0022
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1552.jpg,VeryMildDemented,NonDemented,170,0.5277,0.4402,0.0262,0.0059
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1555.jpg,VeryMildDemented,NonDemented,173,0.5802,0.3929,0.0227,0.0041
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1557.jpg,VeryMildDemented,NonDemented,175,0.5576,0.4117,0.0256,0.0052
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1562.jpg,VeryMildDemented,NonDemented,180,0.5948,0.3817,0.0202,0.0033
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1565.jpg,VeryMildDemented,NonDemented,183,0.8096,0.1841,0.0060,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1569.jpg,VeryMildDemented,NonDemented,187,0.6051,0.3718,0.0199,0.0032
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem157.jpg,VeryMildDemented,NonDemented,175,0.6409,0.3380,0.0185,0.0027
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1583.jpg,VeryMildDemented,NonDemented,195,0.7965,0.1960,0.0070,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1584.jpg,VeryMildDemented,NonDemented,136,0.7771,0.2140,0.0083,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1585.jpg,VeryMildDemented,NonDemented,137,0.6563,0.3260,0.0156,0.0020
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1587.jpg,VeryMildDemented,NonDemented,139,0.5445,0.4243,0.0258,0.0054
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1593.jpg,VeryMildDemented,NonDemented,145,0.6355,0.3446,0.0174,0.0025
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1613.jpg,VeryMildDemented,NonDemented,161,0.6373,0.3446,0.0159,0.0022
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1616.jpg,VeryMildDemented,NonDemented,164,0.6242,0.3537,0.0191,0.0030
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1619.jpg,VeryMildDemented,NonDemented,167,0.6874,0.2980,0.0131,0.0015
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem162.jpg,VeryMildDemented,NonDemented,180,0.6456,0.3341,0.0179,0.0024
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1622.jpg,VeryMildDemented,NonDemented,170,0.5582,0.4135,0.0236,0.0046
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1625.jpg,VeryMildDemented,NonDemented,173,0.5862,0.3879,0.0220,0.0039
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1627.jpg,VeryMildDemented,NonDemented,175,0.5482,0.4205,0.0259,0.0054
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1632.jpg,VeryMildDemented,NonDemented,180,0.6318,0.3486,0.0172,0.0024
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1635.jpg,VeryMildDemented,NonDemented,183,0.7963,0.1967,0.0066,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1639.jpg,VeryMildDemented,NonDemented,187,0.5975,0.3789,0.0203,0.0034
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem165.jpg,VeryMildDemented,VeryMildDemented,183,0.4653,0.4941,0.0316,0.0090
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1653.jpg,VeryMildDemented,NonDemented,195,0.7932,0.1992,0.0071,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1654.jpg,VeryMildDemented,NonDemented,136,0.7836,0.2081,0.0077,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1655.jpg,VeryMildDemented,NonDemented,137,0.6807,0.3040,0.0137,0.0016
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1657.jpg,VeryMildDemented,NonDemented,139,0.5317,0.4354,0.0269,0.0059
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1663.jpg,VeryMildDemented,NonDemented,145,0.6607,0.3220,0.0154,0.0020
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1683.jpg,VeryMildDemented,NonDemented,161,0.7395,0.2501,0.0095,0.0008
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1686.jpg,VeryMildDemented,NonDemented,164,0.6492,0.3314,0.0170,0.0024
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1689.jpg,VeryMildDemented,NonDemented,167,0.7846,0.2073,0.0076,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem169.jpg,VeryMildDemented,NonDemented,187,0.6165,0.3606,0.0198,0.0031
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1692.jpg,VeryMildDemented,NonDemented,170,0.5627,0.4095,0.0234,0.0045
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1695.jpg,VeryMildDemented,NonDemented,173,0.6272,0.3515,0.0185,0.0028
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1697.jpg,VeryMildDemented,NonDemented,175,0.5374,0.4306,0.0263,0.0057
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem17.jpg,VeryMildDemented,NonDemented,175,0.6762,0.3065,0.0155,0.0019
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1702.jpg,VeryMildDemented,NonDemented,180,0.6545,0.3280,0.0154,0.0020
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1705.jpg,VeryMildDemented,NonDemented,183,0.7924,0.2004,0.0067,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1709.jpg,VeryMildDemented,NonDemented,187,0.6195,0.3594,0.0184,0.0028
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1723.jpg,VeryMildDemented,NonDemented,195,0.7890,0.2033,0.0073,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1724.jpg,VeryMildDemented,NonDemented,136,0.7788,0.2129,0.0078,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1725.jpg,VeryMildDemented,NonDemented,137,0.6818,0.3031,0.0135,0.0015
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1727.jpg,VeryMildDemented,NonDemented,139,0.5295,0.4377,0.0268,0.0060
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1733.jpg,VeryMildDemented,NonDemented,145,0.6447,0.3365,0.0165,0.0023
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1753.jpg,VeryMildDemented,NonDemented,161,0.7760,0.2160,0.0075,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1756.jpg,VeryMildDemented,NonDemented,164,0.6416,0.3384,0.0174,0.0025
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1759.jpg,VeryMildDemented,NonDemented,167,0.7716,0.2197,0.0081,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1762.jpg,VeryMildDemented,NonDemented,170,0.5420,0.4277,0.0250,0.0053
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1765.jpg,VeryMildDemented,NonDemented,173,0.6393,0.3408,0.0174,0.0024
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1767.jpg,VeryMildDemented,NonDemented,175,0.5852,0.3889,0.0220,0.0039
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1772.jpg,VeryMildDemented,NonDemented,180,0.6844,0.3006,0.0134,0.0015
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1775.jpg,VeryMildDemented,NonDemented,183,0.8005,0.1928,0.0063,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1779.jpg,VeryMildDemented,NonDemented,187,0.6023,0.3751,0.0195,0.0031
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem1787.jpg,VeryMildDemented,NonDemented,195,0.7848,0.2074,0.0073,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem183.jpg,VeryMildDemented,NonDemented,195,0.7942,0.1979,0.0075,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem184.jpg,VeryMildDemented,NonDemented,136,0.7882,0.2031,0.0081,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem185.jpg,VeryMildDemented,NonDemented,137,0.6806,0.3032,0.0145,0.0018
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem187.jpg,VeryMildDemented,VeryMildDemented,139,0.3390,0.5876,0.0505,0.0229
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem193.jpg,VeryMildDemented,NonDemented,145,0.5492,0.4188,0.0264,0.0055
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem213.jpg,VeryMildDemented,NonDemented,161,0.7192,0.2683,0.0115,0.0011
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem216.jpg,VeryMildDemented,NonDemented,164,0.5876,0.3846,0.0237,0.0042
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem219.jpg,VeryMildDemented,NonDemented,167,0.7363,0.2516,0.0111,0.0010
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem22.jpg,VeryMildDemented,NonDemented,180,0.6691,0.3134,0.0156,0.0019
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem222.jpg,VeryMildDemented,VeryMildDemented,170,0.4455,0.5078,0.0358,0.0109
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem225.jpg,VeryMildDemented,VeryMildDemented,173,0.3473,0.5823,0.0489,0.0215
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem227.jpg,VeryMildDemented,NonDemented,175,0.6254,0.3516,0.0199,0.0030
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem232.jpg,VeryMildDemented,NonDemented,180,0.6337,0.3445,0.0191,0.0028
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem235.jpg,VeryMildDemented,NonDemented,183,0.5458,0.4247,0.0243,0.0052
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem239.jpg,VeryMildDemented,NonDemented,187,0.5933,0.3814,0.0217,0.0037
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem25.jpg,VeryMildDemented,VeryMildDemented,183,0.2585,0.6438,0.0597,0.0381
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem253.jpg,VeryMildDemented,NonDemented,195,0.7891,0.2026,0.0078,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem254.jpg,VeryMildDemented,NonDemented,136,0.7561,0.2332,0.0099,0.0008
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem255.jpg,VeryMildDemented,VeryMildDemented,137,0.4512,0.5043,0.0341,0.0104
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem257.jpg,VeryMildDemented,VeryMildDemented,139,0.4771,0.4803,0.0336,0.0091
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem263.jpg,VeryMildDemented,NonDemented,145,0.5452,0.4218,0.0272,0.0058
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem283.jpg,VeryMildDemented,NonDemented,161,0.7196,0.2677,0.0115,0.0011
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem286.jpg,VeryMildDemented,NonDemented,164,0.5646,0.4041,0.0261,0.0052
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem289.jpg,VeryMildDemented,NonDemented,167,0.7492,0.2397,0.0103,0.0009
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem29.jpg,VeryMildDemented,NonDemented,187,0.6565,0.3244,0.0169,0.0022
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem292.jpg,VeryMildDemented,VeryMildDemented,170,0.4339,0.5169,0.0373,0.0119
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem295.jpg,VeryMildDemented,VeryMildDemented,173,0.1887,0.6737,0.0753,0.0624
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem297.jpg,VeryMildDemented,VeryMildDemented,175,0.4734,0.4834,0.0339,0.0093
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem3.jpg,VeryMildDemented,NonDemented,161,0.6346,0.3463,0.0168,0.0024
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem302.jpg,VeryMildDemented,NonDemented,180,0.6225,0.3543,0.0202,0.0031
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem305.jpg,VeryMildDemented,NonDemented,183,0.6147,0.3635,0.0189,0.0030
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem309.jpg,VeryMildDemented,NonDemented,187,0.6633,0.3180,0.0166,0.0021
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem323.jpg,VeryMildDemented,NonDemented,195,0.7849,0.2065,0.0081,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem324.jpg,VeryMildDemented,NonDemented,136,0.6855,0.2985,0.0143,0.0017
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem325.jpg,VeryMildDemented,NonDemented,137,0.5789,0.3946,0.0224,0.0042
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem327.jpg,VeryMildDemented,NonDemented,139,0.5919,0.3811,0.0231,0.0040
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem333.jpg,VeryMildDemented,NonDemented,145,0.5448,0.4218,0.0276,0.0058
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem353.jpg,VeryMildDemented,NonDemented,161,0.7412,0.2476,0.0103,0.0009
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem356.jpg,VeryMildDemented,NonDemented,164,0.5653,0.4036,0.0260,0.0052
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem359.jpg,VeryMildDemented,NonDemented,167,0.7285,0.2590,0.0114,0.0011
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem362.jpg,VeryMildDemented,NonDemented,170,0.5087,0.4543,0.0298,0.0073
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem365.jpg,VeryMildDemented,VeryMildDemented,173,0.1752,0.6791,0.0782,0.0675
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem367.jpg,VeryMildDemented,VeryMildDemented,175,0.3828,0.5556,0.0445,0.0171
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem372.jpg,VeryMildDemented,NonDemented,180,0.5957,0.3780,0.0225,0.0039
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem375.jpg,VeryMildDemented,NonDemented,183,0.6187,0.3598,0.0187,0.0029
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem379.jpg,VeryMildDemented,NonDemented,187,0.6553,0.3252,0.0173,0.0023
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem393.jpg,VeryMildDemented,NonDemented,195,0.6960,0.2893,0.0133,0.0014
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem394.jpg,VeryMildDemented,NonDemented,136,0.6754,0.3075,0.0152,0.0018
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem395.jpg,VeryMildDemented,NonDemented,137,0.5957,0.3798,0.0209,0.0036
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem397.jpg,VeryMildDemented,NonDemented,139,0.5569,0.4117,0.0262,0.0053
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem403.jpg,VeryMildDemented,NonDemented,145,0.5535,0.4144,0.0266,0.0054
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem423.jpg,VeryMildDemented,NonDemented,161,0.7570,0.2327,0.0095,0.0008
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem426.jpg,VeryMildDemented,NonDemented,164,0.5658,0.4033,0.0257,0.0051
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem429.jpg,VeryMildDemented,NonDemented,167,0.7199,0.2670,0.0119,0.0012
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem43.jpg,VeryMildDemented,NonDemented,195,0.7871,0.2047,0.0077,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem432.jpg,VeryMildDemented,VeryMildDemented,170,0.3002,0.6137,0.0561,0.0300
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem435.jpg,VeryMildDemented,VeryMildDemented,173,0.1924,0.6724,0.0746,0.0606
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem437.jpg,VeryMildDemented,NonDemented,175,0.6311,0.3465,0.0195,0.0029
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem44.jpg,VeryMildDemented,NonDemented,136,0.7698,0.2206,0.0089,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem442.jpg,VeryMildDemented,NonDemented,180,0.6079,0.3671,0.0215,0.0035
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem445.jpg,VeryMildDemented,NonDemented,183,0.7880,0.2034,0.0081,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem449.jpg,VeryMildDemented,NonDemented,187,0.6127,0.3632,0.0208,0.0033
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem45.jpg,VeryMildDemented,NonDemented,137,0.7110,0.2754,0.0124,0.0013
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem463.jpg,VeryMildDemented,NonDemented,195,0.7404,0.2480,0.0107,0.0009
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem464.jpg,VeryMildDemented,NonDemented,136,0.6830,0.3005,0.0148,0.0017
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem465.jpg,VeryMildDemented,NonDemented,137,0.7056,0.2802,0.0129,0.0013
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem467.jpg,VeryMildDemented,NonDemented,139,0.5587,0.4100,0.0261,0.0052
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem47.jpg,VeryMildDemented,VeryMildDemented,139,0.3425,0.5858,0.0496,0.0221
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem473.jpg,VeryMildDemented,NonDemented,145,0.5319,0.4331,0.0287,0.0062
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem493.jpg,VeryMildDemented,NonDemented,161,0.6911,0.2940,0.0133,0.0015
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem496.jpg,VeryMildDemented,NonDemented,164,0.4908,0.4681,0.0326,0.0086
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem499.jpg,VeryMildDemented,NonDemented,167,0.7410,0.2475,0.0107,0.0009
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem502.jpg,VeryMildDemented,VeryMildDemented,170,0.3673,0.5677,0.0463,0.0186
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem505.jpg,VeryMildDemented,VeryMildDemented,173,0.2219,0.6592,0.0690,0.0498
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem507.jpg,VeryMildDemented,NonDemented,175,0.6400,0.3385,0.0188,0.0027
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem512.jpg,VeryMildDemented,NonDemented,180,0.6238,0.3529,0.0202,0.0031
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem515.jpg,VeryMildDemented,NonDemented,183,0.6707,0.3126,0.0148,0.0018
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem519.jpg,VeryMildDemented,NonDemented,187,0.6474,0.3318,0.0183,0.0025
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem53.jpg,VeryMildDemented,NonDemented,145,0.5704,0.4008,0.0241,0.0046
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem533.jpg,VeryMildDemented,NonDemented,195,0.7503,0.2387,0.0102,0.0008
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem534.jpg,VeryMildDemented,NonDemented,136,0.6655,0.3166,0.0160,0.0020
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem535.jpg,VeryMildDemented,NonDemented,137,0.7180,0.2687,0.0121,0.0012
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem537.jpg,VeryMildDemented,NonDemented,139,0.5621,0.4071,0.0258,0.0051
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem543.jpg,VeryMildDemented,NonDemented,145,0.5030,0.4577,0.0316,0.0076
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem563.jpg,VeryMildDemented,NonDemented,161,0.7170,0.2700,0.0118,0.0012
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem566.jpg,VeryMildDemented,NonDemented,164,0.5374,0.4286,0.0278,0.0062
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem569.jpg,VeryMildDemented,NonDemented,167,0.7258,0.2616,0.0115,0.0011
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem572.jpg,VeryMildDemented,VeryMildDemented,170,0.4787,0.4791,0.0333,0.0089
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem575.jpg,VeryMildDemented,VeryMildDemented,173,0.2601,0.6386,0.0624,0.0390
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem577.jpg,VeryMildDemented,NonDemented,175,0.6167,0.3597,0.0204,0.0032
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem582.jpg,VeryMildDemented,NonDemented,180,0.6035,0.3709,0.0220,0.0036
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem585.jpg,VeryMildDemented,NonDemented,183,0.6447,0.3365,0.0166,0.0023
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem589.jpg,VeryMildDemented,NonDemented,187,0.6426,0.3361,0.0187,0.0026
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem6.jpg,VeryMildDemented,NonDemented,164,0.6195,0.3572,0.0202,0.0032
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem603.jpg,VeryMildDemented,NonDemented,195,0.7141,0.2723,0.0124,0.0012
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem604.jpg,VeryMildDemented,NonDemented,136,0.6565,0.3248,0.0165,0.0022
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem605.jpg,VeryMildDemented,NonDemented,137,0.7381,0.2500,0.0109,0.0010
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem607.jpg,VeryMildDemented,NonDemented,139,0.5792,0.3924,0.0240,0.0045
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem613.jpg,VeryMildDemented,NonDemented,145,0.5059,0.4555,0.0311,0.0075
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem633.jpg,VeryMildDemented,NonDemented,161,0.5509,0.4200,0.0240,0.0051
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem636.jpg,VeryMildDemented,NonDemented,164,0.6016,0.3726,0.0221,0.0038
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem639.jpg,VeryMildDemented,NonDemented,167,0.7082,0.2780,0.0125,0.0013
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem642.jpg,VeryMildDemented,NonDemented,170,0.5832,0.3893,0.0233,0.0042
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem645.jpg,VeryMildDemented,NonDemented,173,0.6265,0.3507,0.0199,0.0030
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem647.jpg,VeryMildDemented,NonDemented,175,0.6434,0.3360,0.0181,0.0026
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem652.jpg,VeryMildDemented,NonDemented,180,0.5743,0.3965,0.0246,0.0046
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem655.jpg,VeryMildDemented,NonDemented,183,0.7626,0.2274,0.0093,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem659.jpg,VeryMildDemented,NonDemented,187,0.6234,0.3532,0.0203,0.0031
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem673.jpg,VeryMildDemented,NonDemented,195,0.7648,0.2251,0.0093,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem674.jpg,VeryMildDemented,NonDemented,136,0.7384,0.2494,0.0112,0.0010
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem675.jpg,VeryMildDemented,NonDemented,137,0.7276,0.2599,0.0114,0.0011
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem677.jpg,VeryMildDemented,NonDemented,139,0.5772,0.3945,0.0238,0.0045
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem683.jpg,VeryMildDemented,NonDemented,145,0.5299,0.4348,0.0289,0.0064
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem703.jpg,VeryMildDemented,NonDemented,161,0.6734,0.3103,0.0146,0.0018
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem706.jpg,VeryMildDemented,NonDemented,164,0.6139,0.3617,0.0210,0.0034
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem709.jpg,VeryMildDemented,NonDemented,167,0.7386,0.2497,0.0108,0.0010
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem712.jpg,VeryMildDemented,NonDemented,170,0.5911,0.3827,0.0223,0.0039
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem715.jpg,VeryMildDemented,NonDemented,173,0.6059,0.3688,0.0217,0.0036
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem717.jpg,VeryMildDemented,NonDemented,175,0.6568,0.3240,0.0170,0.0023
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem722.jpg,VeryMildDemented,NonDemented,180,0.6161,0.3595,0.0211,0.0033
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem725.jpg,VeryMildDemented,NonDemented,183,0.7857,0.2058,0.0079,0.0006
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem729.jpg,VeryMildDemented,NonDemented,187,0.5881,0.3845,0.0233,0.0041
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem73.jpg,VeryMildDemented,NonDemented,161,0.6653,0.3179,0.0149,0.0019
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem743.jpg,VeryMildDemented,NonDemented,195,0.8007,0.1916,0.0073,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem744.jpg,VeryMildDemented,NonDemented,136,0.7389,0.2488,0.0112,0.0010
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem745.jpg,VeryMildDemented,NonDemented,137,0.6792,0.3046,0.0144,0.0017
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem747.jpg,VeryMildDemented,NonDemented,139,0.5771,0.3948,0.0236,0.0044
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem753.jpg,VeryMildDemented,NonDemented,145,0.4949,0.4646,0.0322,0.0082
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem76.jpg,VeryMildDemented,NonDemented,164,0.6194,0.3570,0.0204,0.0032
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem773.jpg,VeryMildDemented,NonDemented,161,0.7018,0.2842,0.0127,0.0014
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem776.jpg,VeryMildDemented,NonDemented,164,0.6289,0.3484,0.0196,0.0030
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem779.jpg,VeryMildDemented,NonDemented,167,0.7124,0.2741,0.0122,0.0013
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem782.jpg,VeryMildDemented,NonDemented,170,0.5660,0.4047,0.0245,0.0048
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem785.jpg,VeryMildDemented,NonDemented,173,0.6409,0.3377,0.0187,0.0027
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem787.jpg,VeryMildDemented,NonDemented,175,0.6523,0.3277,0.0176,0.0024
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem79.jpg,VeryMildDemented,NonDemented,167,0.7566,0.2327,0.0099,0.0008
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem792.jpg,VeryMildDemented,NonDemented,180,0.6468,0.3321,0.0186,0.0026
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem795.jpg,VeryMildDemented,NonDemented,183,0.7592,0.2307,0.0094,0.0008
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem799.jpg,VeryMildDemented,VeryMildDemented,187,0.4655,0.4902,0.0345,0.0098
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem813.jpg,VeryMildDemented,NonDemented,195,0.7924,0.1994,0.0077,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem814.jpg,VeryMildDemented,NonDemented,136,0.7450,0.2431,0.0109,0.0010
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem815.jpg,VeryMildDemented,NonDemented,137,0.7259,0.2613,0.0116,0.0011
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem817.jpg,VeryMildDemented,NonDemented,139,0.5931,0.3808,0.0222,0.0039
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem82.jpg,VeryMildDemented,NonDemented,170,0.6793,0.3045,0.0145,0.0017
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem823.jpg,VeryMildDemented,NonDemented,145,0.5071,0.4545,0.0308,0.0076
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem843.jpg,VeryMildDemented,NonDemented,161,0.7644,0.2259,0.0090,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem846.jpg,VeryMildDemented,NonDemented,164,0.6223,0.3546,0.0200,0.0032
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem849.jpg,VeryMildDemented,NonDemented,167,0.7164,0.2704,0.0120,0.0012
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem85.jpg,VeryMildDemented,NonDemented,173,0.6641,0.3172,0.0166,0.0021
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem852.jpg,VeryMildDemented,NonDemented,170,0.5873,0.3860,0.0227,0.0040
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem855.jpg,VeryMildDemented,NonDemented,173,0.6486,0.3307,0.0181,0.0025
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem857.jpg,VeryMildDemented,NonDemented,175,0.6129,0.3631,0.0206,0.0033
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem862.jpg,VeryMildDemented,NonDemented,180,0.6290,0.3483,0.0198,0.0030
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem865.jpg,VeryMildDemented,NonDemented,183,0.7346,0.2537,0.0107,0.0010
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem869.jpg,VeryMildDemented,NonDemented,187,0.5996,0.3750,0.0217,0.0037
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem87.jpg,VeryMildDemented,NonDemented,175,0.6245,0.3531,0.0194,0.0030
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem883.jpg,VeryMildDemented,NonDemented,195,0.7703,0.2202,0.0088,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem884.jpg,VeryMildDemented,NonDemented,136,0.7366,0.2507,0.0116,0.0011
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem885.jpg,VeryMildDemented,NonDemented,137,0.7098,0.2761,0.0127,0.0013
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem887.jpg,VeryMildDemented,NonDemented,139,0.5960,0.3782,0.0220,0.0038
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem893.jpg,VeryMildDemented,NonDemented,145,0.5370,0.4294,0.0274,0.0061
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem9.jpg,VeryMildDemented,NonDemented,167,0.7634,0.2264,0.0094,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem913.jpg,VeryMildDemented,NonDemented,161,0.7605,0.2295,0.0092,0.0007
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem916.jpg,VeryMildDemented,NonDemented,164,0.6252,0.3521,0.0197,0.0031
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem919.jpg,VeryMildDemented,NonDemented,167,0.7578,0.2317,0.0097,0.0008
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem92.jpg,VeryMildDemented,NonDemented,180,0.6711,0.3113,0.0157,0.0019
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem922.jpg,VeryMildDemented,VeryMildDemented,170,0.4470,0.5056,0.0364,0.0111
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem925.jpg,VeryMildDemented,NonDemented,173,0.6273,0.3500,0.0198,0.0030
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem927.jpg,VeryMildDemented,NonDemented,175,0.6182,0.3584,0.0202,0.0032
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem932.jpg,VeryMildDemented,NonDemented,180,0.6178,0.3584,0.0206,0.0033
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem935.jpg,VeryMildDemented,NonDemented,183,0.8018,0.1907,0.0071,0.0004
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem939.jpg,VeryMildDemented,NonDemented,187,0.6064,0.3691,0.0210,0.0035
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem95.jpg,VeryMildDemented,VeryMildDemented,183,0.3140,0.6094,0.0507,0.0260
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem953.jpg,VeryMildDemented,NonDemented,195,0.7917,0.2001,0.0077,0.0005
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem954.jpg,VeryMildDemented,NonDemented,136,0.7145,0.2712,0.0130,0.0013
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem955.jpg,VeryMildDemented,NonDemented,137,0.7254,0.2617,0.0117,0.0011
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem957.jpg,VeryMildDemented,NonDemented,139,0.5161,0.4473,0.0295,0.0070
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem963.jpg,VeryMildDemented,NonDemented,145,0.5495,0.4187,0.0262,0.0056
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem983.jpg,VeryMildDemented,NonDemented,161,0.7083,0.2784,0.0121,0.0012
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem986.jpg,VeryMildDemented,NonDemented,164,0.5852,0.3877,0.0229,0.0042
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem989.jpg,VeryMildDemented,NonDemented,167,0.7450,0.2437,0.0104,0.0009
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem99.jpg,VeryMildDemented,NonDemented,187,0.6030,0.3726,0.0209,0.0035
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem992.jpg,VeryMildDemented,VeryMildDemented,170,0.4644,0.4910,0.0346,0.0100
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem995.jpg,VeryMildDemented,NonDemented,173,0.6116,0.3643,0.0207,0.0033
+C:\Users\anmol\Downloads\Alzheimer's dataset\OriginalDataset\VeryMildDemented\verymildDem997.jpg,VeryMildDemented,NonDemented,175,0.5786,0.3936,0.0234,0.0044

@@ -1,0 +1,2 @@
+Model 1 (tabular) ke liye patient CSV yahan rakho, e.g. alzheimers_disease_data.csv (Kaggle) ya oasis_cross-sectional.csv.
+MRI images yahan NAHI aati.

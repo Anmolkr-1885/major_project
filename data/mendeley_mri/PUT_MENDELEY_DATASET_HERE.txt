@@ -1,0 +1,3 @@
+Mendeley dataset ki zip yahan unzip karo.
+Is folder ke andar OriginalDataset/ (aur AugmentedAlzheimerDataset/) aane chahiye.
+Augmented folder code apne aap skip kar deta hai.
